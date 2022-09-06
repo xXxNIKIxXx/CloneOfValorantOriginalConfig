@@ -1012,38 +1012,38 @@ Agents:
 Weapons:
   Ranged:
     Classic:
-      displayName:
-      Slot:
-      Price:
-      Magazine:
-      reserveMagazine:
-      reserveAmmo:
-      firstDamageRangeStart:
-      firstDamageRangeHeadDamage:
-      firstDamageRangeBodyDamage:
-      firstDamageRangeLegDamage:
-      firstDamageRangeEnd:
-      secondDamageRangeStart:
-      secondDamageRangeHeadDamage:
-      secondDamageRangeBodyDamage:
-      secondDamageRangeLegDamage:
-      secondDamageRangeEnd:
-      thirdDamageRangeStart:
-      thirdDamageRangeHeadDamage:
-      thirdDamageRangeBodyDamage:
-      thirdDamageRangeLegDamage:
-      thirdDamageRangeEnd:
-      fireRate:
-      walkSpeed:
-      equipSpeed:
-      reloadSpeed:
-      spreadPerShotNoZoom:
-      spreadPerShotZoom:
-      wallPenetration:
-      fireMode:
-      handType:
-      Type:
-      reloadAfterOneBullet:
+      displayName: "Classic"
+      Slot: 10
+      Price: 0
+      Magazine: 12
+      reserveMagazine: 3
+      reserveAmmo: 36
+      firstDamageRangeStart: 0
+      firstDamageRangeHeadDamage: 78
+      firstDamageRangeBodyDamage: 26
+      firstDamageRangeLegDamage: 22
+      firstDamageRangeEnd: 30
+      secondDamageRangeStart: 30
+      secondDamageRangeHeadDamage: 66
+      secondDamageRangeBodyDamage: 22
+      secondDamageRangeLegDamage: 18
+      secondDamageRangeEnd: 50
+      thirdDamageRangeStart: 0
+      thirdDamageRangeHeadDamage: 0
+      thirdDamageRangeBodyDamage: 0
+      thirdDamageRangeLegDamage: 0
+      thirdDamageRangeEnd: 0
+      fireRate: 6.75
+      walkSpeed: 5.73
+      equipSpeed: 0.75
+      reloadSpeed: 1.75
+      spreadPerShotNoZoom: 0.4
+      spreadPerShotZoom: 0.4
+      wallPenetration: "Low"
+      fireMode: "SemiAutomatic"
+      handType: "Sidearms"
+      Type: "Sidearms"
+      reloadAfterOneBullet: false
     Shorty:
       displayName:
         Slot:
