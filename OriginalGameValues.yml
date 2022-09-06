@@ -1,6 +1,40 @@
-Test1
-2
-3
-4
-5
-6
+Agents:
+  Brimstone:
+  Phoenix:
+  Sage:
+  Sova:
+  Viper:
+  Cypher:
+  Reyna:
+  Killjoy:
+  Breach:
+  Omen:
+  Jett:
+  Raze:
+  Skye:
+  Yoru:
+  Astra:
+  Kay_o:
+  Chamber:
+  Neon:
+  Fade:
+  
+  Weapons:
+    Classic:
+    Shorty:
+    Frenzy:
+    Ghost:
+    Sheriff:
+    Stinger:
+    Spectre:
+    Bucky:
+    Judge:
+    Bulldog:
+    Guardian:
+    Phantom:
+    Vandal:
+    Marshal:
+    Operator:
+    Ares:
+    Odin:
+    Knife:
