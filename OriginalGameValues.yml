@@ -1026,3 +1026,25 @@ Weapons:
   Ares:
   Odin:
   Knife:
+
+Shields:
+  Light:
+    Type:
+    Slot:
+    Price:
+    Material:
+    Name:
+    displayName:
+    Durability:
+    Description1:
+    Description2:
+  Heavy:
+    Type:
+      Slot:
+      Price:
+      Material:
+      Name:
+      displayName:
+      Durability:
+      Description1:
+      Description2:
