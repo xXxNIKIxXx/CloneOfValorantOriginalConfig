@@ -2,58 +2,58 @@
 #GitHub: https://github.com/xXxNIKIxXx
 Agents:
   Brimstone:
-    Name:
-    Type:
-    Slot:
-    Texture:
-    Signature:
-    Texture_picked:
+    Name: "Brimstone"
+    Type: "Controller"
+    Slot: 0
+    Texture: "ewogICJ0aW1lc3RhbXAiIDogMTYyOTkzOTAwMzQ5NywKICAicHJvZmlsZUlkIiA6ICJjNTBhZmE4YWJlYjk0ZTQ1OTRiZjFiNDI1YTk4MGYwMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUd29FQmFlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzExYmMzMGJkODgxZWYxNjlmZDc1ZjBmZmRmMzM5ZDY2OTU4ODI0NjkwNDRmMzk1OTA0MThlMmQwNmJjNjUzNjQiCiAgICB9CiAgfQp9"
+    Signature: "U78ZnBZ12uDKunDY6hYzl6daxhqbSDCoUBHMJzpxQwakXcfRWlA5LS4OITARnyLdgfbU6y0KJCU+6wcZpBHA8w2c//gxllJmEGGBdehFq4m0ZNzmJUA8MHg5xntIP0d2Cw+oeI89PcKMkAm8oShlKMLhV/75LmhP/VGXEHiQHLfxBcGYU2ozThtCdtFEq6f9fE+42QcdGSAtCQoNwOewFtwf7Xzjq9nbidEmSjkaF715bydTxhG/Dd5me6iXTtVdoUTPZSmE0VchIoMrX7fsrcAtSY+muXSvrPxn4ADfwdIJFKsHti65qCCAmpD042xwtDzOBVNbEuh+XlxEze1pLok1I5txTN9TJRuhU8kr1XXPCMGUIGmbJNwQF+nuyWWNlz76kj44SlclQ503Ua34lonaUWnswzgqCoJb2a3qeEYTcKagtCFOebGVSuGyMA1/a80hM/8Wr/THGLRVVRMDAeIE16lF8qKrM9ezQCng7yMdP4bryeHHygF7IYJK58/C6sklUwK32sRmB9NHEXSIx2SS8jGQqDqq07D+7ddlvN4KV6VV6xdU6lt8fySfXjYny993ph4Qq65+iLBH1ObK3VrutyE875T+h3oBFO2rHtGez/fZTarqEmtTgA8pXbXS+HTz2emB2YG7PUZg46EOp8DBbMvJ/le7smRd3IXnf8I="
+    Texture_picked: "ewogICJ0aW1lc3RhbXAiIDogMTY1MDIyNzU4NjE3MiwKICAicHJvZmlsZUlkIiA6ICIzYTNmNzhkZmExZjQ0OTllYjE5NjlmYzlkOTEwZGYwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb19jcmVyYXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmQwMzY0MjdiYjc0ZGU2MjlhNWI4OWI4MjdjYzEzYjRhZDdiZmE2N2MxYWVmMzdlMWRhMDI4NThjNWE4Njc4MCIKICAgIH0KICB9Cn0="
     History:
-      History1:
-      History2:
-      History3:
-      History4:
-      History5:
-      History6:
+      History1: "Joining from the USA, Brimstone's orbital arsenal"
+      History2: "ensures his squad always has the advantage. His"
+      History3: "ability to deliver utility precisely and from a distance make"
+      History4: "him an unmatched boots-on-the-ground"
+      History5: "commander."
+      History6: ""
     Ability:
       C:
-        Name:
-        Description1:
-        Description2:
-        Description3:
-        Description4:
-        Description5:
-        Description6:
+        Name: "STIM BEACON"
+        Description1: "INSTANTLY toss down a stim beacon. Upon landing, it"
+        Description2: "creates a field that grands players RapidFire and a speed"
+        Description3: "boost."
+        Description4: ""
+        Description5: ""
+        Description6: ""
       Q:
         Name:
-        Description1:
-        Description2:
-        Description3:
-        Description4:
-        Description5:
+        Description1: "INCENDIARY"
+        Description2: "EQUIP an incediary grenade launcher. FIRE to launch a"
+        Description3: "grenade that detonates as it comes to a rest on the floor,"
+        Description4: "creating a lingering fire zone that damages players within"
+        Description5: "the zone."
       E:
-        Name:
-        Description1:
-        Description2:
-        Description3:
-        Description4:
-        Description5:
-        Description6:
-        Description7:
-        Description8:
-        Description9:
+        Name: "SKY SMOKE"
+        Description1: "EQUIP a tactical map. FIRE to set locations where"
+        Description2: "Brimstone's smoke clouds would land. ALTERNATE FIRE to"
+        Description3: "confirm, launching long-lasting smoke clouds that block"
+        Description4: "vision in the selected area."
+        Description5: ""
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
       X:
-        Name:
-        Description1:
-        Description2:
-        Description3:
-        Description4:
-        Description5:
-        Description6:
-        Description7:
-        Description8:
-        Description9:
-        Description10:
+        Name: "ORBITAL STRIKE"
+        Description1: "EQUIP a tactical map. FIRE to launch a lingering orbital"
+        Description2: "strike laser at the selected location, dealing high damage-"
+        Description3: "over-time to players caught in zhe selected area."
+        Description4: ""
+        Description5: ""
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
+        Description10: ""
   Phoenix:
     Name:
     Type:
@@ -1574,32 +1574,32 @@ Weapons:
         reloadAfterOneBullet:
   Meele:
     Knife:
-      displayName:
-      damageRangeStart:
-      frontDamagePrimary:
-      frontDamageAlt:
-      backDamagePrimary:
-      backDamageAlt:
-      damageRangeEnd:
+      displayName: "Tactical Knife"
+      damageRangeStart: 0
+      frontDamagePrimary: 50
+      frontDamageAlt: 75
+      backDamagePrimary: 100
+      backDamageAlt: 150
+      damageRangeEnd: 8
 
 Shields:
   Light:
-    Type:
-    Slot:
-    Price:
-    Material:
-    Name:
-    displayName:
-    Durability:
-    Description1:
-    Description2:
+    Type: "LightShield"
+    Slot: 1
+    Price: 400
+    Material: "LEGACY_IRON_CHESTPLATE"
+    Name: "LightShield"
+    displayName: "LIGHT SHIELD"
+    Durability: 25
+    Description1: "Absorbs 66% of total damage taken. Breaks after it has"
+    Description2: "absorbed 25 damage."
   Heavy:
-    Type:
-      Slot:
-      Price:
-      Material:
-      Name:
-      displayName:
-      Durability:
-      Description1:
-      Description2:
+    Type: "HeavyShield"
+      Slot: 2
+      Price: 1000
+      Material: "DIAMOND_CHESTPLATE"
+      Name: "HeavyShield"
+      displayName: "HEAVY SHIELD"
+      Durability: 50
+      Description1: "Absorbs 66% of total damage taken. Breaks after it has"
+      Description2: "absorbed 50 damage."
