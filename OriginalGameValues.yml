@@ -1540,38 +1540,38 @@ Weapons:
         Type:
         reloadAfterOneBullet:
     Odin:
-      displayName:
-        Slot:
-        Price:
-        Magazine:
-        reserveMagazine:
-        reserveAmmo:
-        firstDamageRangeStart:
-        firstDamageRangeHeadDamage:
-        firstDamageRangeBodyDamage:
-        firstDamageRangeLegDamage:
-        firstDamageRangeEnd:
-        secondDamageRangeStart:
-        secondDamageRangeHeadDamage:
-        secondDamageRangeBodyDamage:
-        secondDamageRangeLegDamage:
-        secondDamageRangeEnd:
-        thirdDamageRangeStart:
-        thirdDamageRangeHeadDamage:
-        thirdDamageRangeBodyDamage:
-        thirdDamageRangeLegDamage:
-        thirdDamageRangeEnd:
-        fireRate:
-        walkSpeed:
-        equipSpeed:
-        reloadSpeed:
-        spreadPerShotNoZoom:
-        spreadPerShotZoom:
-        wallPenetration:
-        fireMode:
-        handType:
-        Type:
-        reloadAfterOneBullet:
+      displayName: "Odin"
+      Slot: 50 
+      Price: 3200
+      Magazine: 100
+      reserveMagazine: 2
+      reserveAmmo: 200
+      firstDamageRangeStart: 0
+      firstDamageRangeHeadDamage: 95
+      firstDamageRangeBodyDamage: 38
+      firstDamageRangeLegDamage: 32
+      firstDamageRangeEnd: 30
+      secondDamageRangeStart: 30
+      secondDamageRangeHeadDamage: 77
+      secondDamageRangeBodyDamage: 31
+      secondDamageRangeLegDamage: 26
+      secondDamageRangeEnd: 50
+      thirdDamageRangeStart: 0
+      thirdDamageRangeHeadDamage: 0
+      thirdDamageRangeBodyDamage: 0
+      thirdDamageRangeLegDamage: 0
+      thirdDamageRangeEnd: 0
+      fireRate: 12.0
+      walkSpeed: 5.13
+      equipSpeed: 1.25
+      reloadSpeed: 5.0
+      spreadPerShotNoZoom: 0.8
+      spreadPerShotZoom: 0.79
+      wallPenetration: "High"
+      fireMode: "Auto"
+      handType: "Primary"
+      Type: "MachineGuns"
+      reloadAfterOneBullet: false
   Meele:
     Knife:
       displayName: "Tactical Knife"
