@@ -1474,38 +1474,38 @@ Weapons:
       Type:
       reloadAfterOneBullet:
     Operator:
-      displayName:"Operator", 23, 4700, 5, 2, 10, 0, 255, 150, 120, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.6, 5.13, 1.5, 0.74, 1.0, 0, RangedWeaponWallPenetration.Medium, RangedWeaponFireMode.Semi, RangedWeaponHandType.Primary, RangedWeaponType.SniperRifles, true
-      Slot:
-      Price:
-      Magazine:
-      reserveMagazine:
-      reserveAmmo:
-      firstDamageRangeStart:
-      firstDamageRangeHeadDamage:
-      firstDamageRangeBodyDamage:
-      firstDamageRangeLegDamage:
-      firstDamageRangeEnd:
-      secondDamageRangeStart:
-      secondDamageRangeHeadDamage:
-      secondDamageRangeBodyDamage:
-      secondDamageRangeLegDamage:
-      secondDamageRangeEnd:
-      thirdDamageRangeStart:
-      thirdDamageRangeHeadDamage:
-      thirdDamageRangeBodyDamage:
-      thirdDamageRangeLegDamage:
-      thirdDamageRangeEnd:
-      fireRate:
-      walkSpeed:
-      equipSpeed:
-      reloadSpeed:
-      spreadPerShotNoZoom:
-      spreadPerShotZoom:
-      wallPenetration:
-      fireMode:
-      handType:
-      Type:
-      reloadAfterOneBullet:
+      displayName: "Operator"
+      Slot: 23
+      Price: 4700
+      Magazine: 5
+      reserveMagazine: 2
+      reserveAmmo: 10
+      firstDamageRangeStart: 0
+      firstDamageRangeHeadDamage: 255
+      firstDamageRangeBodyDamage: 150
+      firstDamageRangeLegDamage: 120
+      firstDamageRangeEnd: 50
+      secondDamageRangeStart: 0
+      secondDamageRangeHeadDamage: 0
+      secondDamageRangeBodyDamage: 0
+      secondDamageRangeLegDamage: 0
+      secondDamageRangeEnd: 0
+      thirdDamageRangeStart: 0
+      thirdDamageRangeHeadDamage: 0
+      thirdDamageRangeBodyDamage: 0
+      thirdDamageRangeLegDamage: 0
+      thirdDamageRangeEnd: 0
+      fireRate: 0.6
+      walkSpeed: 5.13
+      equipSpeed: 1.5
+      reloadSpeed: 0.74
+      spreadPerShotNoZoom: 1.0
+      spreadPerShotZoom: 0
+      wallPenetration: "Medium"
+      fireMode: "Semi"
+      handType: "Primary"
+      Type: "SniperRifles"
+      reloadAfterOneBullet: true
     Ares:
       displayName: "Ares"
       Slot: 41
