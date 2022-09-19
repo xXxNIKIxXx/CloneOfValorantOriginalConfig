@@ -1409,136 +1409,136 @@ Weapons:
         reloadAfterOneBullet:
     Vandal:
       displayName:
-        Slot:
-        Price:
-        Magazine:
-        reserveMagazine:
-        reserveAmmo:
-        firstDamageRangeStart:
-        firstDamageRangeHeadDamage:
-        firstDamageRangeBodyDamage:
-        firstDamageRangeLegDamage:
-        firstDamageRangeEnd:
-        secondDamageRangeStart:
-        secondDamageRangeHeadDamage:
-        secondDamageRangeBodyDamage:
-        secondDamageRangeLegDamage:
-        secondDamageRangeEnd:
-        thirdDamageRangeStart:
-        thirdDamageRangeHeadDamage:
-        thirdDamageRangeBodyDamage:
-        thirdDamageRangeLegDamage:
-        thirdDamageRangeEnd:
-        fireRate:
-        walkSpeed:
-        equipSpeed:
-        reloadSpeed:
-        spreadPerShotNoZoom:
-        spreadPerShotZoom:
-        wallPenetration:
-        fireMode:
-        handType:
-        Type:
-        reloadAfterOneBullet:
+      Slot:
+      Price:
+      Magazine:
+      reserveMagazine:
+      reserveAmmo:
+      firstDamageRangeStart:
+      firstDamageRangeHeadDamage:
+      firstDamageRangeBodyDamage:
+      firstDamageRangeLegDamage:
+      firstDamageRangeEnd:
+      secondDamageRangeStart:
+      secondDamageRangeHeadDamage:
+      secondDamageRangeBodyDamage:
+      secondDamageRangeLegDamage:
+      secondDamageRangeEnd:
+      thirdDamageRangeStart:
+      thirdDamageRangeHeadDamage:
+      thirdDamageRangeBodyDamage:
+      thirdDamageRangeLegDamage:
+      thirdDamageRangeEnd:
+      fireRate:
+      walkSpeed:
+      equipSpeed:
+      reloadSpeed:
+      spreadPerShotNoZoom:
+      spreadPerShotZoom:
+      wallPenetration:
+      fireMode:
+      handType:
+      Type:
+      reloadAfterOneBullet:
     Marshal:
       displayName:
-        Slot:
-        Price:
-        Magazine:
-        reserveMagazine:
-        reserveAmmo:
-        firstDamageRangeStart:
-        firstDamageRangeHeadDamage:
-        firstDamageRangeBodyDamage:
-        firstDamageRangeLegDamage:
-        firstDamageRangeEnd:
-        secondDamageRangeStart:
-        secondDamageRangeHeadDamage:
-        secondDamageRangeBodyDamage:
-        secondDamageRangeLegDamage:
-        secondDamageRangeEnd:
-        thirdDamageRangeStart:
-        thirdDamageRangeHeadDamage:
-        thirdDamageRangeBodyDamage:
-        thirdDamageRangeLegDamage:
-        thirdDamageRangeEnd:
-        fireRate:
-        walkSpeed:
-        equipSpeed:
-        reloadSpeed:
-        spreadPerShotNoZoom:
-        spreadPerShotZoom:
-        wallPenetration:
-        fireMode:
-        handType:
-        Type:
-        reloadAfterOneBullet:
+      Slot:
+      Price:
+      Magazine:
+      reserveMagazine:
+      reserveAmmo:
+      firstDamageRangeStart:
+      firstDamageRangeHeadDamage:
+      firstDamageRangeBodyDamage:
+      firstDamageRangeLegDamage:
+      firstDamageRangeEnd:
+      secondDamageRangeStart:
+      secondDamageRangeHeadDamage:
+      secondDamageRangeBodyDamage:
+      secondDamageRangeLegDamage:
+      secondDamageRangeEnd:
+      thirdDamageRangeStart:
+      thirdDamageRangeHeadDamage:
+      thirdDamageRangeBodyDamage:
+      thirdDamageRangeLegDamage:
+      thirdDamageRangeEnd:
+      fireRate:
+      walkSpeed:
+      equipSpeed:
+      reloadSpeed:
+      spreadPerShotNoZoom:
+      spreadPerShotZoom:
+      wallPenetration:
+      fireMode:
+      handType:
+      Type:
+      reloadAfterOneBullet:
     Operator:
-      displayName:
-        Slot:
-        Price:
-        Magazine:
-        reserveMagazine:
-        reserveAmmo:
-        firstDamageRangeStart:
-        firstDamageRangeHeadDamage:
-        firstDamageRangeBodyDamage:
-        firstDamageRangeLegDamage:
-        firstDamageRangeEnd:
-        secondDamageRangeStart:
-        secondDamageRangeHeadDamage:
-        secondDamageRangeBodyDamage:
-        secondDamageRangeLegDamage:
-        secondDamageRangeEnd:
-        thirdDamageRangeStart:
-        thirdDamageRangeHeadDamage:
-        thirdDamageRangeBodyDamage:
-        thirdDamageRangeLegDamage:
-        thirdDamageRangeEnd:
-        fireRate:
-        walkSpeed:
-        equipSpeed:
-        reloadSpeed:
-        spreadPerShotNoZoom:
-        spreadPerShotZoom:
-        wallPenetration:
-        fireMode:
-        handType:
-        Type:
-        reloadAfterOneBullet:
+      displayName:"Operator", 23, 4700, 5, 2, 10, 0, 255, 150, 120, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.6, 5.13, 1.5, 0.74, 1.0, 0, RangedWeaponWallPenetration.Medium, RangedWeaponFireMode.Semi, RangedWeaponHandType.Primary, RangedWeaponType.SniperRifles, true
+      Slot:
+      Price:
+      Magazine:
+      reserveMagazine:
+      reserveAmmo:
+      firstDamageRangeStart:
+      firstDamageRangeHeadDamage:
+      firstDamageRangeBodyDamage:
+      firstDamageRangeLegDamage:
+      firstDamageRangeEnd:
+      secondDamageRangeStart:
+      secondDamageRangeHeadDamage:
+      secondDamageRangeBodyDamage:
+      secondDamageRangeLegDamage:
+      secondDamageRangeEnd:
+      thirdDamageRangeStart:
+      thirdDamageRangeHeadDamage:
+      thirdDamageRangeBodyDamage:
+      thirdDamageRangeLegDamage:
+      thirdDamageRangeEnd:
+      fireRate:
+      walkSpeed:
+      equipSpeed:
+      reloadSpeed:
+      spreadPerShotNoZoom:
+      spreadPerShotZoom:
+      wallPenetration:
+      fireMode:
+      handType:
+      Type:
+      reloadAfterOneBullet:
     Ares:
-      displayName:
-        Slot:
-        Price:
-        Magazine:
-        reserveMagazine:
-        reserveAmmo:
-        firstDamageRangeStart:
-        firstDamageRangeHeadDamage:
-        firstDamageRangeBodyDamage:
-        firstDamageRangeLegDamage:
-        firstDamageRangeEnd:
-        secondDamageRangeStart:
-        secondDamageRangeHeadDamage:
-        secondDamageRangeBodyDamage:
-        secondDamageRangeLegDamage:
-        secondDamageRangeEnd:
-        thirdDamageRangeStart:
-        thirdDamageRangeHeadDamage:
-        thirdDamageRangeBodyDamage:
-        thirdDamageRangeLegDamage:
-        thirdDamageRangeEnd:
-        fireRate:
-        walkSpeed:
-        equipSpeed:
-        reloadSpeed:
-        spreadPerShotNoZoom:
-        spreadPerShotZoom:
-        wallPenetration:
-        fireMode:
-        handType:
-        Type:
-        reloadAfterOneBullet:
+      displayName: "Ares"
+      Slot: 41
+      Price: 1600
+      Magazine: 50
+      reserveMagazine: 2
+      reserveAmmo: 100
+      firstDamageRangeStart: 0
+      firstDamageRangeHeadDamage: 72
+      firstDamageRangeBodyDamage: 30
+      firstDamageRangeLegDamage: 25
+      firstDamageRangeEnd: 30
+      secondDamageRangeStart: 30
+      secondDamageRangeHeadDamage: 67
+      secondDamageRangeBodyDamage: 28
+      secondDamageRangeLegDamage: 23
+      secondDamageRangeEnd: 50
+      thirdDamageRangeStart: 0
+      thirdDamageRangeHeadDamage: 0
+      thirdDamageRangeBodyDamage: 0
+      thirdDamageRangeLegDamage: 0
+      thirdDamageRangeEnd: 0
+      fireRate: 13.0
+      walkSpeed: 5.13
+      equipSpeed: 1.25
+      reloadSpeed: 3.25
+      spreadPerShotNoZoom: 1.0
+      spreadPerShotZoom: 0.9
+      wallPenetration: "High"
+      fireMode: "Auto"
+      handType: "Primary"
+      Type: "MachineGuns"
+      reloadAfterOneBullet: false
     Odin:
       displayName: "Odin"
       Slot: 50 
