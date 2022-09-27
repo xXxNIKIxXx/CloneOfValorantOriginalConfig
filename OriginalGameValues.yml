@@ -1408,71 +1408,71 @@ Weapons:
       Type:
       reloadAfterOneBullet:
     Vandal:
-      displayName:"Vandal", 49, 2900, 25, 3, 75, 0, 160, 40, 34, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9.75, 5.4, 1.0, 2.5, 0.25, 0.157, RangedWeaponWallPenetration.Medium, RangedWeaponFireMode.Auto, RangedWeaponHandType.Primary, RangedWeaponType.Rifles, false
-      Slot:
-      Price:
-      Magazine:
-      reserveMagazine:
-      reserveAmmo:
-      firstDamageRangeStart:
-      firstDamageRangeHeadDamage:
-      firstDamageRangeBodyDamage:
-      firstDamageRangeLegDamage:
-      firstDamageRangeEnd:
-      secondDamageRangeStart:
-      secondDamageRangeHeadDamage:
-      secondDamageRangeBodyDamage:
-      secondDamageRangeLegDamage:
-      secondDamageRangeEnd:
-      thirdDamageRangeStart:
-      thirdDamageRangeHeadDamage:
-      thirdDamageRangeBodyDamage:
-      thirdDamageRangeLegDamage:
-      thirdDamageRangeEnd:
-      fireRate:
-      walkSpeed:
-      equipSpeed:
-      reloadSpeed:
-      spreadPerShotNoZoom:
-      spreadPerShotZoom:
-      wallPenetration:
-      fireMode:
-      handType:
-      Type:
-      reloadAfterOneBullet:
+      displayName: "Vandal"
+      Slot:  49
+      Price: 2900
+      Magazine: 25
+      reserveMagazine: 3
+      reserveAmmo: 75
+      firstDamageRangeStart: 0
+      firstDamageRangeHeadDamage: 160
+      firstDamageRangeBodyDamage: 40
+      firstDamageRangeLegDamage: 34
+      firstDamageRangeEnd: 50
+      secondDamageRangeStart: 0
+      secondDamageRangeHeadDamage: 0
+      secondDamageRangeBodyDamage: 0
+      secondDamageRangeLegDamage: 0
+      secondDamageRangeEnd: 0
+      thirdDamageRangeStart: 0
+      thirdDamageRangeHeadDamage: 0
+      thirdDamageRangeBodyDamage: 0
+      thirdDamageRangeLegDamage: 0
+      thirdDamageRangeEnd: 0
+      fireRate: 9.75
+      walkSpeed: 5.4
+      equipSpeed: 1.0
+      reloadSpeed: 2.5
+      spreadPerShotNoZoom: 0.25
+      spreadPerShotZoom: 0.157
+      wallPenetration: "Medium"
+      fireMode: "Auto"
+      handType: "Primary"
+      Type: "Rifles"
+      reloadAfterOneBullet: false
     Marshal:
-      displayName:"Marshal", 14, 950, 5, 3, 15, 0, 202, 101, 85, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0,  0, 1.5, 5.4, 1.25, 0.5, 1.0, 0, RangedWeaponWallPenetration.Medium, RangedWeaponFireMode.Semi, RangedWeaponHandType.Primary, RangedWeaponType.SniperRifles, true
-      Slot:
-      Price:
-      Magazine:
-      reserveMagazine:
-      reserveAmmo:
-      firstDamageRangeStart:
-      firstDamageRangeHeadDamage:
-      firstDamageRangeBodyDamage:
-      firstDamageRangeLegDamage:
-      firstDamageRangeEnd:
-      secondDamageRangeStart:
-      secondDamageRangeHeadDamage:
-      secondDamageRangeBodyDamage:
-      secondDamageRangeLegDamage:
-      secondDamageRangeEnd:
-      thirdDamageRangeStart:
-      thirdDamageRangeHeadDamage:
-      thirdDamageRangeBodyDamage:
-      thirdDamageRangeLegDamage:
-      thirdDamageRangeEnd:
-      fireRate:
-      walkSpeed:
-      equipSpeed:
-      reloadSpeed:
-      spreadPerShotNoZoom:
-      spreadPerShotZoom:
-      wallPenetration:
-      fireMode:
-      handType:
-      Type:
-      reloadAfterOneBullet:
+      displayName: "Marshal"
+      Slot: 14
+      Price: 950
+      Magazine: 5
+      reserveMagazine: 3
+      reserveAmmo: 15
+      firstDamageRangeStart: 0
+      firstDamageRangeHeadDamage: 202
+      firstDamageRangeBodyDamage: 101
+      firstDamageRangeLegDamage: 85
+      firstDamageRangeEnd: 50
+      secondDamageRangeStart: 0
+      secondDamageRangeHeadDamage: 0
+      secondDamageRangeBodyDamage: 0
+      secondDamageRangeLegDamage: 0
+      secondDamageRangeEnd: 0
+      thirdDamageRangeStart: 0
+      thirdDamageRangeHeadDamage: 0
+      thirdDamageRangeBodyDamage: 0
+      thirdDamageRangeLegDamage: 0
+      thirdDamageRangeEnd: 0 
+      fireRate: 1.5
+      walkSpeed: 5.4
+      equipSpeed: 1.25
+      reloadSpeed: 0.5
+      spreadPerShotNoZoom: 1.0
+      spreadPerShotZoom: 0
+      wallPenetration: "Medium"
+      fireMode: "Semi"
+      handType: "Primary"
+      Type: "SniperRifles"
+      reloadAfterOneBullet: true
     Operator:
       displayName: "Operator"
       Slot: 23
