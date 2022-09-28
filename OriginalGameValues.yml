@@ -1079,68 +1079,37 @@ Weapons:
       reloadAfterOneBullet: false
     Frenzy:
       displayName: "Frenzy"
-28
-450
-13
-3
-39
-0
-78
-26
-22
-20
-20
-63
-21
-17
-50
-0
-0
-0
-0
-0
-10.0
-5.73
-1.0
-1.5
-0.45
-0.45
-"Low"
-"Auto"
-"Sidearms"
-"Sidearms"
-false
-      Slot:
-      Price:
-      Magazine:
-      reserveMagazine:
-      reserveAmmo:
-      firstDamageRangeStart:
-      firstDamageRangeHeadDamage:
-      firstDamageRangeBodyDamage:
-      firstDamageRangeLegDamage:
-      firstDamageRangeEnd:
-      secondDamageRangeStart:
-      secondDamageRangeHeadDamage:
-      secondDamageRangeBodyDamage:
-      secondDamageRangeLegDamage:
-      secondDamageRangeEnd:
-      thirdDamageRangeStart:
-      thirdDamageRangeHeadDamage:
-      thirdDamageRangeBodyDamage:
-      thirdDamageRangeLegDamage:
-      thirdDamageRangeEnd:
-      fireRate:
-      walkSpeed:
-      equipSpeed:
-      reloadSpeed:
-      spreadPerShotNoZoom:
-      spreadPerShotZoom:
-      wallPenetration:
-      fireMode:
-      handType:
-      Type:
-      reloadAfterOneBullet:
+      Slot: 28
+      Price: 450
+      Magazine: 13
+      reserveMagazine: 3
+      reserveAmmo: 39
+      firstDamageRangeStart: 0
+      firstDamageRangeHeadDamage: 78
+      firstDamageRangeBodyDamage: 26
+      firstDamageRangeLegDamage: 22
+      firstDamageRangeEnd: 20
+      secondDamageRangeStart: 20
+      secondDamageRangeHeadDamage: 63
+      secondDamageRangeBodyDamage: 21
+      secondDamageRangeLegDamage: 17
+      secondDamageRangeEnd: 50
+      thirdDamageRangeStart: 0
+      thirdDamageRangeHeadDamage: 0
+      thirdDamageRangeBodyDamage: 0
+      thirdDamageRangeLegDamage: 0
+      thirdDamageRangeEnd: 0
+      fireRate: 10.0
+      walkSpeed: 5.73
+      equipSpeed: 1.0
+      reloadSpeed: 1.5
+      spreadPerShotNoZoom: 0.45
+      spreadPerShotZoom: 0.45
+      wallPenetration: "Low"
+      fireMode: "Auto"
+      handType: "Sidearms"
+      Type: "Sidearms"
+      reloadAfterOneBullet: false
     Ghost:
       displayName: "Ghost"
 37
