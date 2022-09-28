@@ -1495,132 +1495,70 @@ false
       reloadAfterOneBullet:
     Bulldog:
       displayName: "Bulldog"
-13
-2050
-24
-3
-72
-0
-115
-35
-29
-50
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-10.0
-5.4
-1.0
-2.5
-0.3
-0.3
-"Medium"
-"Auto"
-"Primary"
-"Rifles"
-false
-      Slot:
-      Price:
-      Magazine:
-      reserveMagazine:
-      reserveAmmo:
-      firstDamageRangeStart:
-      firstDamageRangeHeadDamage:
-      firstDamageRangeBodyDamage:
-      firstDamageRangeLegDamage:
-      firstDamageRangeEnd:
-      secondDamageRangeStart:
-      secondDamageRangeHeadDamage:
-      secondDamageRangeBodyDamage:
-      secondDamageRangeLegDamage:
-      secondDamageRangeEnd:
-      thirdDamageRangeStart:
-      thirdDamageRangeHeadDamage:
-      thirdDamageRangeBodyDamage:
-      thirdDamageRangeLegDamage:
-      thirdDamageRangeEnd:
-      fireRate:
-      walkSpeed:
-      equipSpeed:
-      reloadSpeed:
-      spreadPerShotNoZoom:
-      spreadPerShotZoom:
-      wallPenetration:
-      fireMode:
-      handType:
-      Type:
-      reloadAfterOneBullet:
+      Slot: 13
+      Price: 2050
+      Magazine: 24
+      reserveMagazine: 3
+      reserveAmmo: 72
+      firstDamageRangeStart: 0
+      firstDamageRangeHeadDamage: 115
+      firstDamageRangeBodyDamage: 35
+      firstDamageRangeLegDamage: 29
+      firstDamageRangeEnd: 50
+      secondDamageRangeStart: 0
+      secondDamageRangeHeadDamage: 0
+      secondDamageRangeBodyDamage: 0
+      secondDamageRangeLegDamage: 0
+      secondDamageRangeEnd: 0
+      thirdDamageRangeStart: 0
+      thirdDamageRangeHeadDamage: 0
+      thirdDamageRangeBodyDamage: 0
+      thirdDamageRangeLegDamage: 0
+      thirdDamageRangeEnd: 0
+      fireRate: 10.0
+      walkSpeed: 5.4
+      equipSpeed: 1.0
+      reloadSpeed: 2.5
+      spreadPerShotNoZoom: 0.3
+      spreadPerShotZoom: 0.3
+      wallPenetration: "Medium"
+      fireMode: "Auto"
+      handType: "Primary"
+      Type: "Rifles"
+      reloadAfterOneBullet: false
     Guardian:
       displayName: "Guardian"
-22
-2250
-12
-3
-36
-0
-195
-65
-49
-50
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-5.25
-5.4
-1.0
-2.5
-0.1
-0.0
-"High"
-"SemiAutomatic"
-"Primary"
-"Rifles"
-false
-      Slot:
-      Price:
-      Magazine:
-      reserveMagazine:
-      reserveAmmo:
-      firstDamageRangeStart:
-      firstDamageRangeHeadDamage:
-      firstDamageRangeBodyDamage:
-      firstDamageRangeLegDamage:
-      firstDamageRangeEnd:
-      secondDamageRangeStart:
-      secondDamageRangeHeadDamage:
-      secondDamageRangeBodyDamage:
-      secondDamageRangeLegDamage:
-      secondDamageRangeEnd:
-      thirdDamageRangeStart:
-      thirdDamageRangeHeadDamage:
-      thirdDamageRangeBodyDamage:
-      thirdDamageRangeLegDamage:
-      thirdDamageRangeEnd:
-      fireRate:
-      walkSpeed:
-      equipSpeed:
-      reloadSpeed:
-      spreadPerShotNoZoom:
-      spreadPerShotZoom:
-      wallPenetration:
-      fireMode:
-      handType:
-      Type:
-      reloadAfterOneBullet:
+      Slot: 22
+      Price: 2250
+      Magazine: 12
+      reserveMagazine: 3
+      reserveAmmo: 36
+      firstDamageRangeStart: 0
+      firstDamageRangeHeadDamage: 195
+      firstDamageRangeBodyDamage: 65
+      firstDamageRangeLegDamage: 49
+      firstDamageRangeEnd: 50
+      secondDamageRangeStart: 0
+      secondDamageRangeHeadDamage: 0
+      secondDamageRangeBodyDamage: 0
+      secondDamageRangeLegDamage: 0
+      secondDamageRangeEnd: 0
+      thirdDamageRangeStart: 0
+      thirdDamageRangeHeadDamage: 0
+      thirdDamageRangeBodyDamage: 0
+      thirdDamageRangeLegDamage: 0
+      thirdDamageRangeEnd: 0
+      fireRate: 5.25
+      walkSpeed: 5.4
+      equipSpeed: 1.0
+      reloadSpeed: 2.5
+      spreadPerShotNoZoom: 0.1
+      spreadPerShotZoom: 0.0
+      wallPenetration: "High"
+      fireMode: "SemiAutomatic"
+      handType: "Primary"
+      Type: "Rifles"
+      reloadAfterOneBullet: false
     Phantom:
       displayName: "Phantom"
       Slot: 40
