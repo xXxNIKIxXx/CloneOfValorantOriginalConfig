@@ -1045,7 +1045,7 @@ Weapons:
       Type: "Sidearms"
       reloadAfterOneBullet: false
     Shorty:
-      displayName:"Shorty", 19, 150, 2, 5, 10, 0, 24, 12, 10, 7, 7, 16, 8, 6, 15, 15, 6, 3, 2, 50, 3.33, 5.4, 0.75, 1.75, 4.0, 4.0, RangedWeaponWallPenetration.Low, RangedWeaponFireMode.Semi, RangedWeaponHandType.Sidearms, RangedWeaponType.Sidearms, false
+      displayName: "Shorty", 19, 150, 2, 5, 10, 0, 24, 12, 10, 7, 7, 16, 8, 6, 15, 15, 6, 3, 2, 50, 3.33, 5.4, 0.75, 1.75, 4.0, 4.0, "Low", "Semi", "Sidearms", "Sidearms", false
       Slot:
       Price:
       Magazine:
@@ -1078,7 +1078,7 @@ Weapons:
       Type:
       reloadAfterOneBullet:
     Frenzy:
-      displayName:"Frenzy", 28, 450, 13, 3, 39, 0, 78, 26, 22, 20, 20, 63, 21, 17, 50, 0, 0, 0, 0, 0, 10.0, 5.73, 1.0, 1.5, 0.45, 0.45, RangedWeaponWallPenetration.Low, RangedWeaponFireMode.Auto, RangedWeaponHandType.Sidearms, RangedWeaponType.Sidearms, false
+      displayName: "Frenzy", 28, 450, 13, 3, 39, 0, 78, 26, 22, 20, 20, 63, 21, 17, 50, 0, 0, 0, 0, 0, 10.0, 5.73, 1.0, 1.5, 0.45, 0.45, "Low", "Auto", "Sidearms", "Sidearms", false
       Slot:
       Price:
       Magazine:
@@ -1111,7 +1111,7 @@ Weapons:
       Type:
       reloadAfterOneBullet:
     Ghost:
-      displayName:"Ghost", 37, 500, 15, 3, 45, 0, 105, 30, 25, 30, 30, 87, 25, 21, 50, 0, 0, 0, 0, 0, 6.75, 5.73, 0.75, 1.5, 0.3, 0.3, RangedWeaponWallPenetration.Medium, RangedWeaponFireMode.Semi, RangedWeaponHandType.Sidearms, RangedWeaponType.Sidearms, false
+      displayName: "Ghost", 37, 500, 15, 3, 45, 0, 105, 30, 25, 30, 30, 87, 25, 21, 50, 0, 0, 0, 0, 0, 6.75, 5.73, 0.75, 1.5, 0.3, 0.3, "Medium", "Semi", "Sidearms", "Sidearms", false
       Slot:
       Price:
       Magazine:
@@ -1144,7 +1144,7 @@ Weapons:
       Type:
       reloadAfterOneBullet:
     Sheriff:
-      displayName:"Sheriff", 46, 800, 6, 4, 24, 0, 149, 55, 46, 30, 30, 145, 50, 42, 50, 0, 0,0, 0, 0, 4.0, 5.4, 1.0, 2.25, 0.25, 0.25, RangedWeaponWallPenetration.High, RangedWeaponFireMode.Semi, RangedWeaponHandType.Sidearms, RangedWeaponType.Sidearms, false
+      displayName: "Sheriff", 46, 800, 6, 4, 24, 0, 149, 55, 46, 30, 30, 145, 50, 42, 50, 0, 0,0, 0, 0, 4.0, 5.4, 1.0, 2.25, 0.25, 0.25, "High", "Semi", "Sidearms", "Sidearms", false
       Slot:
       Price:
       Magazine:
@@ -1177,7 +1177,7 @@ Weapons:
       Type:
       reloadAfterOneBullet:
     Stinger:
-      displayName:"Stinger", 12, 950, 20, 3, 60, 0, 67, 27, 22, 20, 20, 62, 25, 21, 50, 0, 0, 0, 0, 0, 16.0, 5.73, 0.75, 2.25, 0.65, 0.5, RangedWeaponWallPenetration.Low, RangedWeaponFireMode.Auto, RangedWeaponHandType.Primary, RangedWeaponType.SMGs, false
+      displayName: "Stinger", 12, 950, 20, 3, 60, 0, 67, 27, 22, 20, 20, 62, 25, 21, 50, 0, 0, 0, 0, 0, 16.0, 5.73, 0.75, 2.25, 0.65, 0.5, "Low", "Auto", "Primary", "SMGs", false
       Slot:
       Price:
       Magazine:
@@ -1210,7 +1210,7 @@ Weapons:
       Type:
       reloadAfterOneBullet:
     Spectre:
-      displayName:"Spectre", 21, 1600, 30, 3, 90, 0, 78, 26, 22, 20, 20, 66, 22, 18, 50, 0, 0, 0, 0, 0, 13.33, 5.73, 0.75, 2.25, 0.4, 0.25, RangedWeaponWallPenetration.Medium, RangedWeaponFireMode.FullAutomatic, RangedWeaponHandType.Primary, RangedWeaponType.SMGs, false
+      displayName: "Spectre", 21, 1600, 30, 3, 90, 0, 78, 26, 22, 20, 20, 66, 22, 18, 50, 0, 0, 0, 0, 0, 13.33, 5.73, 0.75, 2.25, 0.4, 0.25, "Medium", "FullAutomatic", "Primary", "SMGs", false
       Slot:
       Price:
       Magazine:
@@ -1243,7 +1243,7 @@ Weapons:
       Type:
       reloadAfterOneBullet:
     Bucky:
-      displayName:"Bucky", 39, 850, 5, 2, 10, 0, 40, 20, 17, 8, 8, 26, 13, 11, 12, 0, 0, 0, 0, 0, 1.1, 5.06, 1.0, 0.5, 2.6, 2.6, RangedWeaponWallPenetration.Low, RangedWeaponFireMode.Semi, RangedWeaponHandType.Primary, RangedWeaponType.Shotguns, true
+      displayName: "Bucky", 39, 850, 5, 2, 10, 0, 40, 20, 17, 8, 8, 26, 13, 11, 12, 0, 0, 0, 0, 0, 1.1, 5.06, 1.0, 0.5, 2.6, 2.6, "Low", "Semi", "Primary", "Shotguns", true
       Slot:
       Price:
       Magazine:
@@ -1276,7 +1276,7 @@ Weapons:
       Type:
       reloadAfterOneBullet:
     Judge:
-      displayName:"Judge", 48, 1850, 7, 3, 21, 0, 34, 17, 14, 10, 10, 20, 10, 8, 15, 15, 14, 7, 5, 50, 3.5, 5.06, 1.0, 2.2, 2.25, 2.25, RangedWeaponWallPenetration.Low, RangedWeaponFireMode.Auto, RangedWeaponHandType.Primary, RangedWeaponType.Shotguns, false
+      displayName: "Judge", 48, 1850, 7, 3, 21, 0, 34, 17, 14, 10, 10, 20, 10, 8, 15, 15, 14, 7, 5, 50, 3.5, 5.06, 1.0, 2.2, 2.25, 2.25, "Low", "Auto", "Primary", "Shotguns", false
       Slot:
       Price:
       Magazine:
@@ -1309,7 +1309,7 @@ Weapons:
       Type:
       reloadAfterOneBullet:
     Bulldog:
-      displayName:"Bulldog", 13, 2050, 24, 3, 72, 0, 115, 35, 29, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10.0, 5.4, 1.0, 2.5, 0.3, 0.3, RangedWeaponWallPenetration.Medium, RangedWeaponFireMode.Auto, RangedWeaponHandType.Primary, RangedWeaponType.Rifles, false
+      displayName: "Bulldog", 13, 2050, 24, 3, 72, 0, 115, 35, 29, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10.0, 5.4, 1.0, 2.5, 0.3, 0.3, "Medium", "Auto", "Primary", "Rifles", false
       Slot:
       Price:
       Magazine:
@@ -1342,7 +1342,7 @@ Weapons:
       Type:
       reloadAfterOneBullet:
     Guardian:
-      displayName:"Guardian", 22, 2250, 12, 3, 36, 0, 195, 65, 49, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5.25, 5.4, 1.0, 2.5, 0.1, 0.0, RangedWeaponWallPenetration.High, RangedWeaponFireMode.SemiAutomatic, RangedWeaponHandType.Primary, RangedWeaponType.Rifles, false
+      displayName: "Guardian", 22, 2250, 12, 3, 36, 0, 195, 65, 49, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5.25, 5.4, 1.0, 2.5, 0.1, 0.0, "High", "SemiAutomatic", "Primary", "Rifles", false
       Slot:
       Price:
       Magazine:
@@ -1375,38 +1375,38 @@ Weapons:
       Type:
       reloadAfterOneBullet:
     Phantom:
-      displayName:"Phantom", 40, 2900, 30, 3, 90, 0, 156, 39, 33, 15, 15, 140, 35, 29, 30, 30, 124, 31, 26, 50, 11.0, 5.4, 1.0, 2.5, 0.2, 0.11, RangedWeaponWallPenetration.Medium, RangedWeaponFireMode.Auto, RangedWeaponHandType.Primary, RangedWeaponType.Rifles, false
-      Slot:
-      Price:
-      Magazine:
-      reserveMagazine:
-      reserveAmmo:
-      firstDamageRangeStart:
-      firstDamageRangeHeadDamage:
-      firstDamageRangeBodyDamage:
-      firstDamageRangeLegDamage:
-      firstDamageRangeEnd:
-      secondDamageRangeStart:
-      secondDamageRangeHeadDamage:
-      secondDamageRangeBodyDamage:
-      secondDamageRangeLegDamage:
-      secondDamageRangeEnd:
-      thirdDamageRangeStart:
-      thirdDamageRangeHeadDamage:
-      thirdDamageRangeBodyDamage:
-      thirdDamageRangeLegDamage:
-      thirdDamageRangeEnd:
-      fireRate:
-      walkSpeed:
-      equipSpeed:
-      reloadSpeed:
-      spreadPerShotNoZoom:
-      spreadPerShotZoom:
-      wallPenetration:
-      fireMode:
-      handType:
-      Type:
-      reloadAfterOneBullet:
+      displayName: "Phantom"
+      Slot: 40
+      Price: 2900
+      Magazine: 30
+      reserveMagazine: 3
+      reserveAmmo: 90
+      firstDamageRangeStart: 0
+      firstDamageRangeHeadDamage: 156
+      firstDamageRangeBodyDamage: 39
+      firstDamageRangeLegDamage: 33
+      firstDamageRangeEnd: 15
+      secondDamageRangeStart: 15
+      secondDamageRangeHeadDamage: 140
+      secondDamageRangeBodyDamage: 35
+      secondDamageRangeLegDamage: 29
+      secondDamageRangeEnd: 30
+      thirdDamageRangeStart: 30
+      thirdDamageRangeHeadDamage: 124
+      thirdDamageRangeBodyDamage: 31
+      thirdDamageRangeLegDamage: 26
+      thirdDamageRangeEnd: 50
+      fireRate: 11.0
+      walkSpeed: 5.4
+      equipSpeed: 1.0
+      reloadSpeed: 2.5
+      spreadPerShotNoZoom: 0.2
+      spreadPerShotZoom: 0.11
+      wallPenetration: "Medium"
+      fireMode: "Auto"
+      handType: "Primary"
+      Type: "Rifles"
+      reloadAfterOneBullet: false
     Vandal:
       displayName: "Vandal"
       Slot:  49
