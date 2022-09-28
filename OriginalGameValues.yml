@@ -1145,259 +1145,136 @@ Weapons:
       reloadAfterOneBullet: false
     Sheriff: 
       displayName: "Sheriff"
-46
-800
-6
-4
-24
-0
-149
-55
-46
-30
-30
-145
-50
-42
-50
-0
-0,0
-0
-0
-4.0
-5.4
-1.0
-2.25
-0.25
-0.25
-"High"
-"Semi"
-"Sidearms"
-"Sidearms"
-false
-      Slot: 
-      Price: 
-      Magazine: 
-      reserveMagazine: 
-      reserveAmmo: 
-      firstDamageRangeStart: 
-      firstDamageRangeHeadDamage: 
-      firstDamageRangeBodyDamage: 
-      firstDamageRangeLegDamage: 
-      firstDamageRangeEnd: 
-      secondDamageRangeStart: 
-      secondDamageRangeHeadDamage: 
-      secondDamageRangeBodyDamage: 
-      secondDamageRangeLegDamage: 
-      secondDamageRangeEnd: 
-      thirdDamageRangeStart: 
-      thirdDamageRangeHeadDamage: 
-      thirdDamageRangeBodyDamage: 
-      thirdDamageRangeLegDamage: 
-      thirdDamageRangeEnd: 
-      fireRate: 
-      walkSpeed: 
-      equipSpeed: 
-      reloadSpeed: 
-      spreadPerShotNoZoom: 
-      spreadPerShotZoom: 
-      wallPenetration: 
-      fireMode: 
-      handType: 
-      Type: 
-      reloadAfterOneBullet: 
+      Slot: 46
+      Price: 800
+      Magazine: 6
+      reserveMagazine: 4
+      reserveAmmo: 24
+      firstDamageRangeStart: 0
+      firstDamageRangeHeadDamage: 149
+      firstDamageRangeBodyDamage: 55
+      firstDamageRangeLegDamage: 46
+      firstDamageRangeEnd: 30
+      secondDamageRangeStart: 30
+      secondDamageRangeHeadDamage: 145
+      secondDamageRangeBodyDamage: 50
+      secondDamageRangeLegDamage: 42
+      secondDamageRangeEnd: 50
+      thirdDamageRangeStart: 0
+      thirdDamageRangeHeadDamage: 0
+      thirdDamageRangeBodyDamage: 0
+      thirdDamageRangeLegDamage: 0
+      thirdDamageRangeEnd: 0
+      fireRate: 4.0
+      walkSpeed: 5.4
+      equipSpeed: 1.0
+      reloadSpeed: 2.25
+      spreadPerShotNoZoom: 0.25
+      spreadPerShotZoom: 0.25
+      wallPenetration: "High"
+      fireMode: "Semi"
+      handType: "Sidearms"
+      Type: "Sidearms"
+      reloadAfterOneBullet: false
     Stinger: 
       displayName: "Stinger"
-12
-950
-20
-3
-60
-0
-67
-27
-22
-20
-20
-62
-25
-21
-50
-0
-0
-0
-0
-0
-16.0
-5.73
-0.75
-2.25
-0.65
-0.5
-"Low"
-"Auto"
-"Primary"
-"SMGs"
-false
-      Slot: 
-      Price: 
-      Magazine: 
-      reserveMagazine: 
-      reserveAmmo: 
-      firstDamageRangeStart: 
-      firstDamageRangeHeadDamage: 
-      firstDamageRangeBodyDamage: 
-      firstDamageRangeLegDamage: 
-      firstDamageRangeEnd: 
-      secondDamageRangeStart: 
-      secondDamageRangeHeadDamage: 
-      secondDamageRangeBodyDamage: 
-      secondDamageRangeLegDamage: 
-      secondDamageRangeEnd: 
-      thirdDamageRangeStart: 
-      thirdDamageRangeHeadDamage: 
-      thirdDamageRangeBodyDamage: 
-      thirdDamageRangeLegDamage: 
-      thirdDamageRangeEnd: 
-      fireRate: 
-      walkSpeed: 
-      equipSpeed: 
-      reloadSpeed: 
-      spreadPerShotNoZoom: 
-      spreadPerShotZoom: 
-      wallPenetration: 
-      fireMode: 
-      handType: 
-      Type: 
-      reloadAfterOneBullet: 
+      Slot: 12
+      Price: 950
+      Magazine: 20
+      reserveMagazine: 3
+      reserveAmmo: 60
+      firstDamageRangeStart: 0
+      firstDamageRangeHeadDamage: 67
+      firstDamageRangeBodyDamage: 27
+      firstDamageRangeLegDamage: 22
+      firstDamageRangeEnd: 20
+      secondDamageRangeStart: 20
+      secondDamageRangeHeadDamage: 62
+      secondDamageRangeBodyDamage: 25
+      secondDamageRangeLegDamage: 21
+      secondDamageRangeEnd: 50
+      thirdDamageRangeStart: 0
+      thirdDamageRangeHeadDamage: 0
+      thirdDamageRangeBodyDamage: 0
+      thirdDamageRangeLegDamage: 0
+      thirdDamageRangeEnd: 0
+      fireRate: 16.0
+      walkSpeed: 5.73
+      equipSpeed: 0.75
+      reloadSpeed: 2.25
+      spreadPerShotNoZoom: 0.65
+      spreadPerShotZoom: 0.5
+      wallPenetration: "Low"
+      fireMode: "Auto"
+      handType: "Primary"
+      Type: "SMGs"
+      reloadAfterOneBullet: false
     Spectre: 
       displayName: "Spectre"
-21
-1600
-30
-3
-90
-0
-78
-26
-22
-20
-20
-66
-22
-18
-50
-0
-0
-0
-0
-0
-13.33
-5.73
-0.75
-2.25
-0.4
-0.25
-"Medium"
-"FullAutomatic"
-"Primary"
-"SMGs"
-false
-      Slot: 
-      Price: 
-      Magazine: 
-      reserveMagazine: 
-      reserveAmmo: 
-      firstDamageRangeStart: 
-      firstDamageRangeHeadDamage: 
-      firstDamageRangeBodyDamage: 
-      firstDamageRangeLegDamage: 
-      firstDamageRangeEnd: 
-      secondDamageRangeStart: 
-      secondDamageRangeHeadDamage: 
-      secondDamageRangeBodyDamage: 
-      secondDamageRangeLegDamage: 
-      secondDamageRangeEnd: 
-      thirdDamageRangeStart: 
-      thirdDamageRangeHeadDamage: 
-      thirdDamageRangeBodyDamage: 
-      thirdDamageRangeLegDamage: 
-      thirdDamageRangeEnd: 
-      fireRate: 
-      walkSpeed: 
-      equipSpeed: 
-      reloadSpeed: 
-      spreadPerShotNoZoom: 
-      spreadPerShotZoom: 
-      wallPenetration: 
-      fireMode: 
-      handType: 
-      Type: 
-      reloadAfterOneBullet: 
+      Slot: 21
+      Price: 1600
+      Magazine: 30
+      reserveMagazine: 3
+      reserveAmmo: 90
+      firstDamageRangeStart: 0
+      firstDamageRangeHeadDamage: 78
+      firstDamageRangeBodyDamage: 26
+      firstDamageRangeLegDamage: 22
+      firstDamageRangeEnd: 20
+      secondDamageRangeStart: 20
+      secondDamageRangeHeadDamage: 66
+      secondDamageRangeBodyDamage: 22
+      secondDamageRangeLegDamage: 18
+      secondDamageRangeEnd: 50
+      thirdDamageRangeStart: 0
+      thirdDamageRangeHeadDamage: 0
+      thirdDamageRangeBodyDamage: 0
+      thirdDamageRangeLegDamage: 0
+      thirdDamageRangeEnd: 0
+      fireRate: 13.33
+      walkSpeed: 5.73
+      equipSpeed: 0.75
+      reloadSpeed: 2.25
+      spreadPerShotNoZoom: 0.4
+      spreadPerShotZoom: 0.25
+      wallPenetration: "Medium"
+      fireMode: "FullAutomatic"
+      handType: "Primary"
+      Type: "SMGs"
+      reloadAfterOneBullet: false
     Bucky: 
       displayName: "Bucky"
-39
-850
-5
-2
-10
-0
-40
-20
-17
-8
-8
-26
-13
-11
-12
-0
-0
-0
-0
-0
-1.1
-5.06
-1.0
-0.5
-2.6
-2.6
-"Low"
-"Semi"
-"Primary"
-"Shotguns"
-true
-      Slot: 
-      Price: 
-      Magazine: 
-      reserveMagazine: 
-      reserveAmmo: 
-      firstDamageRangeStart: 
-      firstDamageRangeHeadDamage: 
-      firstDamageRangeBodyDamage: 
-      firstDamageRangeLegDamage: 
-      firstDamageRangeEnd: 
-      secondDamageRangeStart: 
-      secondDamageRangeHeadDamage: 
-      secondDamageRangeBodyDamage: 
-      secondDamageRangeLegDamage: 
-      secondDamageRangeEnd: 
-      thirdDamageRangeStart: 
-      thirdDamageRangeHeadDamage: 
-      thirdDamageRangeBodyDamage: 
-      thirdDamageRangeLegDamage: 
-      thirdDamageRangeEnd: 
-      fireRate: 
-      walkSpeed: 
-      equipSpeed: 
-      reloadSpeed: 
-      spreadPerShotNoZoom: 
-      spreadPerShotZoom: 
-      wallPenetration: 
-      fireMode: 
-      handType: 
-      Type: 
-      reloadAfterOneBullet: 
+      Slot: 39
+      Price: 850
+      Magazine: 5
+      reserveMagazine: 2
+      reserveAmmo: 10
+      firstDamageRangeStart: 0
+      firstDamageRangeHeadDamage: 40
+      firstDamageRangeBodyDamage: 20
+      firstDamageRangeLegDamage: 17
+      firstDamageRangeEnd: 8
+      secondDamageRangeStart: 8
+      secondDamageRangeHeadDamage: 26
+      secondDamageRangeBodyDamage: 13
+      secondDamageRangeLegDamage: 11
+      secondDamageRangeEnd: 12
+      thirdDamageRangeStart: 0
+      thirdDamageRangeHeadDamage: 0
+      thirdDamageRangeBodyDamage: 0
+      thirdDamageRangeLegDamage: 0
+      thirdDamageRangeEnd: 0
+      fireRate: 1.1
+      walkSpeed: 5.06
+      equipSpeed: 1.0
+      reloadSpeed: 0.5
+      spreadPerShotNoZoom: 2.6
+      spreadPerShotZoom: 2.6
+      wallPenetration: "Low"
+      fireMode: "Semi"
+      handType: "Primary"
+      Type: "Shotguns"
+      reloadAfterOneBullet: true
     Judge: 
       displayName: "Judge"
       Slot: 48
