@@ -55,58 +55,58 @@ Agents:
         Description9: ""
         Description10: ""
   Phoenix: 
-    Name: 
-    Type: 
-    Slot: 
-    Texture: 
-    Signature: 
-    Texture_picked: 
+    Name: "Phoenix"
+    Type: "Duelist"
+    Slot: 7
+    Texture: "ewogICJ0aW1lc3RhbXAiIDogMTYyODYzODkxMTAyNCwKICAicHJvZmlsZUlkIiA6ICJkZGVkNTZlMWVmOGI0MGZlOGFkMTYyOTIwZjdhZWNkYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEaXNjb3JkQXBwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2QyZDM3ZjI3YmEyNWI4MjhmYmQwNDBkODI2ODMxM2FmYmViOGU0NTNmNjlkNmQwYWY0ODNkNjIxNmZhYzI0MjIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+    Signature: "ELFiVJDkEPcG7d7Tf4v+ZfpDS0GZLk3klbOR20qWxkM2hZRnBwojEXar0N0nRgTKTzd1sWxccHxc28Qk30151JQY2n0oKK+0UGPb69AGYv+SCVlTxV0YtgkL8XIwTW16n5+6HZxMcwpiE8hztG/WyUeMou0LG/DBMaXaaZwfMs9bBBYAt6Lo381dijB9GzP6vlcdkONra5i2zFInRTweIHDnDYWS0k8SStD+3/SzmDFibPhRcMALAx7ZigxNf8SPep8dP1WzdRdL8K2N4Vwy+NWTl1aNHNdT9ueqWtgPapffFCHkeF+yLf7+/FHlICFKbrJGZjfJw8fEB2aMxF4T4UxRSbJieyI8xxxtEB4TS20l6UBOIjAsc4kSlJsa15YLqQ9cx1C1iAz0jPZP1wKvEcoIW7XEvpOkNPW227DSOaV7M/DeHvAzTJAKBQBeW5QXG/RmtDFfBmThmQit0ZdtYmeX07ueQ5M+5pz4JCGZ4Rs0X0k/PTTGbWe0sJacAet/R6GJ5CZ/J6g7T2sXbGhaT20EXHJ7zVI1MVomGua5J9QH67/LZI965bBOLLCxkCwgZw5CHcbhSTp3H5bAgP9o5oHhHRPV9saqjQbtcCx2+D3AlAGLp6Agr5pnSQ3ntR6Lzc5X/Yn5uKy+kj1uUolqpam0Nde8jevi/0ON4ljsJLs="
+    Texture_picked: "ewogICJ0aW1lc3RhbXAiIDogMTY1MDIyNzUyNDMwNiwKICAicHJvZmlsZUlkIiA6ICIyNzZlMDQ2YjI0MDM0M2VkOTk2NmU0OTRlN2U2Y2IzNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBRFJBTlM3MTAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWQwOGM2NjFhYjhkZTJlZmFlZjE2Y2UwZmJjMGQ2YTU1Mzg3ZmE0NWYzYTQyMTVkZDI3ZWE3MjVkNjFhZTQ2ZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
     History: 
-      History1: 
-      History2: 
-      History3: 
-      History4: 
-      History5: 
-      History6: 
+      History1: "Hailing from the U.K., Phoenix's star power"
+      History2: "shines through in his fighting style, igniting the"
+      History3: "battlefield with flash and flare. Whether he's got"
+      History4: "backup or not, he'll rush into a fight on his own"
+      History5: "terms."
+      History6: ""
     Ability: 
       C: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
+        Name: "BLAZE"
+        Description1: "EQUIP a flame wall. FIRE to create a line of flame that moves"
+        Description2: "forward, creating a wall of fire that blocks vision and"
+        Description3: "damages players passing through it. HOLD FIRE to bend the wall in the"
+        Description4: "direction of your crosshair."
+        Description5: ""
+        Description6: ""
       Q: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
+        Name: "CURVEBALL"
+        Description1: "EQUIP a flare orb that takes a curving path and detonates"
+        Description2: "shortly after throwing. FIRE to curve the flare orb to the left,"
+        Description3: "detonating and blinding any player who sees the orb."
+        Description4: "ALTERNATE FIRE to curve the flare orb to the right."
+        Description5: ""
       E: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
+        Name: "HOT HANDS"
+        Description1: "EQUIP a fireball. FIRE to throw a fireball that explodes after a"
+        Description2: "set amount of time or upon hitting the ground, creating a"
+        Description3: "lingering fire zone that damages enemies."
+        Description4: ""
+        Description5: ""
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
       X: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
-        Description10: 
+        Name: "RUN IT BACK"
+        Description1: "INSTANTLY place a marker at Phoenix’s location. While this"
+        Description2: "ability is active, dying or allowing the timer to expire will"
+        Description3: "end this ability and bring Phoenix back to this location with"
+        Description4: "full health."
+        Description5: ""
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
+        Description10: ""
   Sage: 
     Name: 
     Type: 
