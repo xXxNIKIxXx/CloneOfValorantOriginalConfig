@@ -108,58 +108,58 @@ Agents:
         Description9: ""
         Description10: ""
   Sage: 
-    Name: 
-    Type: 
-    Slot: 
-    Texture: 
-    Signature: 
-    Texture_picked: 
+    Name: "Sage"
+    Type: "Sentinel"
+    Slot: 6
+    Texture: "ewogICJ0aW1lc3RhbXAiIDogMTU4OTQ0ODY0Njg2OCwKICAicHJvZmlsZUlkIiA6ICI0ZDcwNDg2ZjUwOTI0ZDMzODZiYmZjOWMxMmJhYjRhZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzaXJGYWJpb3pzY2hlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIxNWZiN2MxNTRjY2IwMWFjMWJjYjMyNjlhZjc2NzIyZGU0NWYxZjBhYTQxNmVlOTEwMTMwMWM2MWFiODkxYTEiCiAgICB9CiAgfQp9"
+    Signature: "oItKe0dtICU7PVQNTHBBXMHB9a4uInHmIar3H/+DmmrvYg93FfYIQrbXSxbTZRIuM6OBaX8+XPVMnOY3z/EK4yhWRNl+hObFmyADPHOdFzUM8HBA2wOYUP/S/dqzSHyrbY/su3E//wegoI9+LUhJw/7BT4ADj8yCjtpVKeadVDeEFcymTZYlTZF618kdKZJEKTHgwh0oqW63URUN/bwS8C9enoJTquYYj6SKQawcFo6wQ9/S3h6CoTXqeooVaedBlGTvRtbUypQWB56H1SwWP7BVS31JzhXpa6KrsTt7yx82nB756fw2N3cOflZ6E/+zWfHJldf+GKrqBC2mQmw9VRcme4P4xD69bvo4q/8Z/1gjPtmRE8JHmc15MpgZyydOU4v0Bn8qu+MsH/bSqXrL33kyjl61aM/HP9QcGE6S5RE5JMNLNwDLp82xI1K3AnHmR7QwIbfoqLU1qDpMu1TzFkD6qQfbWkzPA/WEZtRRTROtiLZDzyxIGYl6lEqSajs6yExcmFgP7AKdR3PRdAQlAeFcExB2vdB7YOiOeiLrSaV8mYB3pc0/iPqFgDCQ3Kgxp0U2CfAS8EkoQpA0ggTc9yY8NwoINJSpvDwcJVxnuHSWO4lnuQRw5lm2xsYh2lzyPnNlncX9elKW7M2tE4qf4S6srktt+Zfh5uql4JjDSDY="
+    Texture_picked: "ewogICJ0aW1lc3RhbXAiIDogMTY1MDIyNzUwMTI4NiwKICAicHJvZmlsZUlkIiA6ICJhMWU4OThjNWEyNmY0MTYyOTQyYmNmNmM1MzRiMTE5ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0b21keGlpaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iMjU2Y2UzNjdiOGUyYzI3YWU1ZDRhYTFmODhjMTY5ZjllYmRiYzRkMGIwNWNkOWJiYzQyYzAyZTg1MzRkMmNkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
     History: 
-      History1: 
-      History2: 
-      History3: 
-      History4: 
-      History5: 
-      History6: 
+      History1: "The bastion of China, Sage creates safety foe"
+      History2: "herself and her team wherever she goes. Able to"
+      History3: "revive fallen friends and stave off forceful"
+      History4: "assaults, she provides a calm center to a hellish"
+      History5: "battlefield."
+      History6: ""
     Ability: 
       C: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
+        Name: "BARRIER ORB"
+        Description1: "EQUIP a barrier orb. FIRE places a"
+        Description2: "solid wall. ALT FIRE rotates the targeter."
+        Description3: ""
+        Description4: ""
+        Description5: ""
+        Description6: ""
       Q: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
+        Name: "SLOW ORB"
+        Description1: "EQUIP a slowing orb. FIRE to throw a slowing orb forward"
+        Description2: "that detonates upon landing, creating a lingering field that"
+        Description3: "slows players caught inside of it."
+        Description4: ""
+        Description5: ""
       E: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
+        Name: "HEALING ORB"
+        Description1: "EQUIP a healing orb. FIRE with your crosshairs over a"
+        Description2: "damaged ally to activate a heal-over-time on them. ALT"
+        Description3: "FIRE while Sage is damaged to activate a self heal-over-"
+        Description4: "time."
+        Description5: ""
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
       X: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
-        Description10: 
+        Name: "RESURRECTION"
+        Description1: "EQUIP a resurrection ability. FIRE with your crosshairs"
+        Description2: "placed over a dead ally to begin resurrecting them. After a"
+        Description3: "brief channel, the ally will be brought back to life with full"
+        Description4: "health."
+        Description5: ""
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
+        Description10: ""
   Sova: 
     Name: 
     Type: 
