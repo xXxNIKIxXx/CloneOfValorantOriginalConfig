@@ -161,58 +161,58 @@ Agents:
         Description9: ""
         Description10: ""
   Sova: 
-    Name: 
-    Type: 
-    Slot: 
-    Texture: 
-    Signature: 
-    Texture_picked: 
+    Name: "Sova"
+    Type: "Initiator"
+    Slot: 5
+    Texture: "ewogICJ0aW1lc3RhbXAiIDogMTY0NDU4NjE1NDU4OCwKICAicHJvZmlsZUlkIiA6ICJmZDQ3Y2I4YjgzNjQ0YmY3YWIyYmUxODZkYjI1ZmMwZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDEyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI3YjI4OGJmMmEyZTVhNzE2NTlkODYxZDJjODgwNmFkNGY2OWYwMzM2NzY1NTg5YTI4YzU0ZWE2NzY2MTIxNzMiCiAgICB9CiAgfQp9"
+    Signature: "UqXAOACxIiHGs6QmcroRJ6cUKIiu2WLQGdWOOHn4jYC3W0XXWjKDl591LRzcoOdRu0zkduDxnei2mCOosF5dc/iZnFD/5FKwItHG1iJjJXDYSpLwxvzVKmNXg64QFerjh6FhJBs5SQfZx8WRFyBpkAWzqMWgKLpTaIpe3SVALZsmq4qwUqVkxe95YlM811lOvGGOjlsPhXSVw2mNK9QMpgpNo7RhKnZ8YZcdnW81coXxaMVvJrqECru0EZimreT1zPV5yhzaUgnpV2cS2ikOQAk41b+EpnZx2n4ygkl2b4azfXELnMBBjmuN3s+Ce5S71bJSNqKC4KgOIKd1XwUTq2dImf/p14VTUnevnMQ0YC8/yKzPEaA77AmlkF253SpB6KEeVRltU9wDBvPPshp9ADQ7MYW9Sf/l6J6WvBD1NIWwyitzpwFD2SBkXX4sHo/jy9Ti77Pkm+JchWbRLtQEUrnc94yBDtr8v6jcRaIuy8WHSCsPLcwl1zm64opY/Y/udsE39gpQrdDu8yv6ciMUwksfbFFxHQP/cKfTuTefRxuAG3nzY3vVdISF8SLWVTlEyES15H3+LStZMfED+RWz5hsW8BfwnZvxtcDM4rVtMUWTfzdCbYo+S3fUhpf4hw9qt1qw9ZSAb6rMO906FuaUGYiyGIXAa7PJhxw0Vg9cxr8="
+    Texture_picked: "ewogICJ0aW1lc3RhbXAiIDogMTY1MDIyNzQ4NjA5MywKICAicHJvZmlsZUlkIiA6ICJhNzdkNmQ2YmFjOWE0NzY3YTFhNzU1NjYxOTllYmY5MiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwOEJFRDUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWVmZGM5Zjg3ZTk1ZGIyNmY4ZDgzNmRhOWI0Njc0MzY3NDYyYTgwMjQ2OGFkMzBmN2U2YTJlYTNkZGY3MTE3MCIKICAgIH0KICB9Cn0="
     History: 
-      History1: 
-      History2: 
-      History3: 
-      History4: 
-      History5: 
-      History6: 
+      History1: "Born from the eternal winter of Russia's tundra,"
+      History2: "Sova tracks, finds, and eliminates enemies with"
+      History3: "ruthless efficiency and precision. His custom bow"
+      History4: "and incredible scouting abilities ensure that even"
+      History5: "if you run, you cannot hide."
+      History6: ""
     Ability: 
       C: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
+        Name: "OWL DRONE"
+        Description1: "EQUIP an owl drone. FIRE to deploy and take control of"
+        Description2: "movement of the drone. While in control of the drone, FIRE"
+        Description3: "to shoot a marking dart. This dart will reveal the location of"
+        Description4: "any player struck by the dart."
+        Description5: ""
+        Description6: ""
       Q: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
+        Name: "SHOCK BOLT"
+        Description1: "EQUIP a bow with a shock bolt. FIRE to send the explosive"
+        Description2: "forward, detonating upon collision and damaging"
+        Description3: "players nearby. HOLD FIRE to extend the range of the"
+        Description4: "projectile. ALTERNATE FIRE to add up to two bounces to"
+        Description5: "this arrow."
       E: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
+        Name: "RECON BOLT"
+        Description1: "EQUIP a bow with a recon bolt. FIRE to send the recon bolt"
+        Description2: "forward, activating upon collision and revealing the location"
+        Description3: "of nearby enemies caught in the line of sight of the bolt."
+        Description4: "HOLD FIRE to extend the range of the projectile."
+        Description5: "ALTERNATE FIRE to add up to two bounces to this arrow."
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
       X: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
-        Description10: 
+        Name: "HUNTER’S FURY"
+        Description1: "EQUIP a bow with three long-range wall-piercing energy"
+        Description2: "blasts. FIRE to release an energy blast in a line in front of"
+        Description3: "Sova, dealing damage and revealing the location of enemies"
+        Description4: "caught in the line. This ability can be RE-USED up to two"
+        Description5: "more times while the ability timer is active."
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
+        Description10: ""
   Viper: 
     Name: 
     Type: 
