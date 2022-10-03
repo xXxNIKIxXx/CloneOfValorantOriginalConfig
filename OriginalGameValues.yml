@@ -214,111 +214,111 @@ Agents:
         Description9: ""
         Description10: ""
   Viper: 
-    Name: 
-    Type: 
-    Slot: 
-    Texture: 
-    Signature: 
-    Texture_picked: 
+    Name: "Viper"
+    Type: "Controller"
+    Slot: 1
+    Texture: "ewogICJ0aW1lc3RhbXAiIDogMTY0Mzk3NDYyMzc1MCwKICAicHJvZmlsZUlkIiA6ICJmMTkyZGU3MDUzMTQ0ODcxOTAwMjQ1MmIzZWE3MzA3NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZVhvU2V0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NmY2ZlMWQyNDU3N2QxNjM0MzVkODAwNTI1Y2JjOTAzMWEyOTg5NDU4NmYxOTA0ZTY5NGQ5MWE0OTQzMDUxNWEiCiAgICB9CiAgfQp9"
+    Signature: "JbMOuuoCFsPsCdFXCKizONTT46AA5mwrH78CHDQNqPQaYP/vMFO0n8z26UIykiSBxNlYkBsCoWD8NYPWwm2QKp8GCpXIQDJpqFVWnhQYXecTadwKpoan3PROZEZ3Ri5fSiqi4I+8dsDa7qzBSJnWNmYHuNreRkCQ++WDNCHWimjeTO3DVYeDVKc6Tpi8kPQoO7XesnlsmQBIoIBucEYcFugj9lZKr7LIQX3D7ViDi/vVkNq1odjpM6fhmp1lhDt7jeUs8SjANJw7R9MQPMtAF54v2qpyeDUFoGZil7QhnPCNQE4PvbLKE/v9nkFtMBaLJR0CU8VOigS2Y2WY+qXdUQaUW7mMbMV6xkV/0VHgRYrMODInL9I4toaf05DZ7stdxsKN2yZ6UzIyVb2xaeZswWivPBJhErS2cyhs9ir+T0rhu/23tfs6eDnpnT/LVuj8h7i0txDVOti0uIdhFJ2o3c/XHVNGlANNmuLSAA4vgUMNvjCX1se4YmcSO4SgoP/XwswrpZC6dwaf5YVD1yut79ka9Bwu1ekdECHVe0lH0BM65vh969AdCxcDnXfoPsfMIYC7H8yTJFavwni6Gf/xhTu7aVqQcV3NCJbjHfU3ZAAyXFE0RpYHuouhN8RJY6Sk8zUyc4pjIjXsXn8e/RlIuO7f5SZNECDGpBZazeSrS1w="
+    Texture_picked: "ewogICJ0aW1lc3RhbXAiIDogMTY1MDIyNzQ3ODI1OSwKICAicHJvZmlsZUlkIiA6ICIxNDU1MDNhNDRjZmI0NzcwYmM3NWNjMTRjYjUwMDE4NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMaWtlbHlFcmljIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzYzOGVkMzFjMjk4Mjg4OGRiNTQ0N2RjMTdkOTZmNjlkYjkxYzViNTVjOTUwMWNmOWFhNGFhZTljNDg4ZGRkZWEiCiAgICB9CiAgfQp9"
     History: 
-      History1: 
-      History2: 
-      History3: 
-      History4: 
-      History5: 
-      History6: 
+      History1: "The American chemist, Viper deploys an array of"
+      History2: "poisonous chemical devices to control the"
+      History3: "battlefield and cripple the enemy's vision. If the"
+      History4: "toxins don't kill her prey, her mind games surely"
+      History5: "will."
+      History6: ""
     Ability: 
       C: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
+        Name: "SNAKE BITE"
+        Description1: "EQUIP a chemical launcher. FIRE to launch a canister that"
+        Description2: "shatters upon hitting the floor, creating a lingering chemical"
+        Description3: "zone that damages and slows enemies."
+        Description4: ""
+        Description5: ""
+        Description6: ""
       Q: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
+        Name: "POISON CLOUD"
+        Description1: "EQUIP a gas emitter. FIRE to throw the emitter that"
+        Description2: "perpetually remains throughout the round. RE-USE the"
+        Description3: "ability to create a toxic gas cloud at the cost of fuel. This"
+        Description4: "ability can be RE-USED more than once and can be picked"
+        Description5: "up to be REDEPLOYED."
       E: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
+        Name: "TOXIC SCREEN"
+        Description1: "EQUIP a gas emitter launcher. FIRE"
+        Description2: "to deploy a long line of gas emitters. RE-USE the ability to"
+        Description3: "create a tall wall of toxic gas at the cost of fuel. This ability"
+        Description4: "can be RE-USED more than once."
+        Description5: ""
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
       X: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
-        Description10: 
+        Name: "VIPER’S PIT"
+        Description1: "EQUIP a chemical sprayer. FIRE to spray a chemical cloud"
+        Description2: "in all directions around Viper, creating a large cloud that"
+        Description3: "reduces the vision range of players and maximum health of"
+        Description4: "enemies inside of it. HOLD the ability key to disperse the"
+        Description5: "cloud early."
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
+        Description10: ""
   Cypher: 
-    Name: 
-    Type: 
-    Slot: 
-    Texture: 
-    Signature: 
-    Texture_picked: 
+    Name: "Cypher"
+    Type: "Sentinel"
+    Slot: 4
+    Texture: "ewogICJ0aW1lc3RhbXAiIDogMTY0NDgzMzk1NjA1NywKICAicHJvZmlsZUlkIiA6ICIzYTNmNzhkZmExZjQ0OTllYjE5NjlmYzlkOTEwZGYwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb19jcmVyYXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWEyYzVjOGE5NTU2MzBkYjI5ODBjOGJkOWM5ZmZkN2Q0MjNlZGMxMGFiOGRmNjhjMzhlNzkyODYyNWQ5YzI1MiIKICAgIH0KICB9Cn0="
+    Signature: "uNW9RQ/RtkUK/B6udSEOOqyDUOVEqvgpTTuOlv5gq4eDo0RkRsHEoQkjkWI/+5R5CXV7Lwjl0Dsymj/h+asEOmALojWxbIslm31+XQmpQyyl3ewDNJraagmB9itrSe/POODbOhIjVhq2PlfKJNX4IndA02s3jKxfL3XCS9oTrgVSLjrJ7q/b4xWi46vDqSCiJm6UUA7yu7oCsR4csEmEOZ3XHrjWcHHY2pRBNTK1CfKwUmCS14HPeRaq/VpnQ1Aan5unfGKQsR80eEJdWPJA0tBoJJnE7tfBD3BS3QXXNqzEWXYpmZ3aK4E6nkit6trrtsRXT5YwJubzUDOPhk7A5z7z/eRWcA2CTPhD33dsap26nucJC5F9Tuzbcvu2sXhO9Hp5wzKRAumvj2F5u7O+2Z29PWR4eOVsilhV5V9mxpW+MOqrRERCa31zrWtnwFgcPIQPmNItj/wfCRk9E5ebI/OUc58tX/Nl4eN8B6hh5mty2db35/Ilm7qeKLxb5wxvjmYAZ7WtkZ9HFzSAXaoUkzVuUpl/eVKCpSVgWmgFJXaCEVtFPdcyPPG0YKNp1FcQxdG1SifbHzlXJSXgc+3fghtCQ+F9Xo523Ejm7fd5+2GtPJvRHTHRVtr0cZiEEdFnVAR3Zhjz9sXFKNduB40Sn+GuanlYu0RYpbh9fgjZwVw="
+    Texture_picked: "ewogICJ0aW1lc3RhbXAiIDogMTY1MDIyNzU3MTIwOCwKICAicHJvZmlsZUlkIiA6ICJjYmFkZmRmNTRkZTM0N2UwODQ3MjUyMDIyYTFkNGRkZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNeHJuaW5nIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdhMGVlZjBkYzBjN2I4NjNhMGNmZGZjMmM5MDdkMmZmZTBjNDRkZGVkOGU5ZGZhNDhiNDU0OTUwZTQzMWY1IgogICAgfQogIH0KfQ=="
     History: 
-      History1: 
-      History2: 
-      History3: 
-      History4: 
-      History5: 
-      History6: 
+      History1: "The Moroccan information broker, Cypher is a"
+      History2: "one-man surveillance network who keeps tabs on"
+      History3: "the enemy's every move. No"
+      History4: "secret is safe. No maneuver goes unseen. Cypher is alway"
+      History5: "watching."
+      History6: ""
     Ability: 
       C: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
+        Name: "TRAPWIRE"
+        Description1: "EQUIP a trapwire. FIRE to place a destructible and covert"
+        Description2: "tripwire at the targeted location creating a line that spans"
+        Description3: "between the placed location and the wall opposite. Enemy"
+        Description4: "players who cross a tripwire will be tethered, revealed, and"
+        Description5: "dazed after a short period if they do not destroy the device"
+        Description6: "in time. This ability can be picked up to be REDEPLOYED."
       Q: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
+        Name: "CYBER CAGE"
+        Description1: "INSTANTLY toss the cyber cage in front of Cypher."
+        Description2: "Activate to create a zone that blocks vision and"
+        Description3: "slows enemies who pass through it."
+        Description4: ""
+        Description5: ""
       E: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
+        Name: "SPYCAM"
+        Description1: "EQUIP a spycam. FIRE to place the spycam at the targeted"
+        Description2: "location. RE-USE this ability to take control of the camera’s"
+        Description3: "view. While in control of the camera, FIRE to shoot a"
+        Description4: "marking dart. This dart will reveal the location of any player"
+        Description5: "struck by the dart."
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
       X: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
-        Description10: 
+        Name: "NEURAL THEFT"
+        Description1: "INSTANTLY use on a dead enemy player in your crosshairs"
+        Description2: "to reveal the location of all living enemy players."
+        Description3: ""
+        Description4: ""
+        Description5: ""
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
+        Description10: ""
   Reyna: 
     Name: 
     Type: 
