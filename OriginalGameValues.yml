@@ -612,7 +612,7 @@ Agents:
         Description1: "INSTANTLY throw a Blast Pack that will stick to surfaces."
         Description2: "RE-USE the ability after deployment to detonate, damaging"
         Description3: "and moving anything hit. Raze isn't damaged by this ability,"
-        Description4: "but will still take fall damage if launched up far enough.",
+        Description4: "but will still take fall damage if launched up far enough."
         Description5: ""
       E: 
         Name: "PAINT SHELLS"
