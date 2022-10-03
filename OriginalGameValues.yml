@@ -426,111 +426,111 @@ Agents:
         Description9: ""
         Description10: ""
   Breach: 
-    Name: 
-    Type: 
-    Slot: 
-    Texture: 
-    Signature: 
-    Texture_picked: 
+    Name: "Breach"
+    Type: "Initiator"
+    Slot: 11
+    Texture: "ewogICJ0aW1lc3RhbXAiIDogMTY0NDYyMjc1MDQ2NiwKICAicHJvZmlsZUlkIiA6ICJkMGI4MjE1OThmMTE0NzI1ODBmNmNiZTliOGUxYmU3MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJqYmFydHl5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgzYjMzZDU1OWRlZmRmM2QwYjk4MTIyN2E0Y2JhZWMxYjRhZjIyNWNlZjQ5OTk4ZGE1YjhiNWE4OTVmNTNmMjIiCiAgICB9CiAgfQp9"
+    Signature: "xL1dDEveNUro2QFwPXl10OS6PG8gZ8bsFbijxhBsD8/Yeybu1+IZp0yUgYv6JQboLfUPXaOy9jMq0oPbxS+SCw6BydHKqRp2tlIVle9uTcWrweycgM+LWJA8Y5TM1pocQgE+ByDxgT+tzoLsGkWYLOfpxw0CTinxyrGTAEYnanH+qLYQX4Qq2OABr6KO++U4NlMO/1njYn9t0fHOs1WlGvlM5gOOfBRDq+S8Io24yQdIBvxUN/wMm8r73clU+pzOd3LGrxhjeGARmmMLUjIcsShK0WqXQ+/P5uggKqw2SggIVUtYg6W1EgAPceFkwOG/B/115Vuk3k/KwKowadkj/cyHcWdE+Sb/G+3CSmWP8KC6vUiWRRW05m2ycG1H0JqxywVRwEIxl2yC0nsRN7zvJDMuMrRSQ6Vdu43Q/jF80koPnFKyfXUAXGosbLDXYdhSXhVdaGXxKVd0A6Hr4s4Hye/Fik5LB2CIkRguu6iAmg4/QFabzyVDh5YglmGzCakLFdBPtuDmmBgq7h5Lwxnq6+RVmjc6xH3eGQ1KqCEuDpxOL4log5EYMBiBcp6NQ+ryxzPTsXnewdakc1aFUUMoAJv/I/A73NYHE3X6d5idTYmrWwNrpQTSHznvkQXD2h0+u1QGysZMQ2djHgtMu4tVIwEHV2yHqEuFoO25qbI81x0="
+    Texture_picked: "ewogICJ0aW1lc3RhbXAiIDogMTY1MDIyNzU5MzI3NywKICAicHJvZmlsZUlkIiA6ICJlMmVkYTM1YjMzZGU0M2UxOTVhZmRkNDgxNzQ4ZDlhOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDaGFsa19SaWNlR0kiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2QyM2YwZTFiNDRiMGJlZjg1NDdiZGQxMmMyYzVjY2NkZWRiZTg5YmNkYmIwYmE5ZTU4ZDI3YWUzYzFhYjBiMiIKICAgIH0KICB9Cn0="
     History: 
-      History1: 
-      History2: 
-      History3: 
-      History4: 
-      History5: 
-      History6: 
+      History1: "Breach, the bionic Swede, fires powerful, targeted"
+      History2: "kinetic blasts to aggressively clear a path"
+      History3: "through enemy ground. The damage and"
+      History4: "disruption he inflicts ensures no fight is ever fair."
+      History5: ""
+      History6: ""
     Ability: 
       C: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
+        Name: "AFTERSHOCK"
+        Description1: "EQUIP a fusion charge. FIRE the charge to set a slow-acting"
+        Description2: "burst through the wall. The burst does heavy damage to"
+        Description3: "anyone caught in its area."
+        Description4: ""
+        Description5: ""
+        Description6: ""
       Q: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
+        Name: "FLASHPOINT"
+        Description1: "EQUIP a blinding charge. FIRE the charge to set fast-acting"
+        Description2: "burst through the wall. The charge detonates to blind all"
+        Description3: "players looking at it."
+        Description4: ""
+        Description5: ""
       E: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
+        Name: "FAULT LINE"
+        Description1: "EQUIP a seismic blast. HOLD FIRE to increase the distance."
+        Description2: "RELEASE to set off the quake, dazing all players in its zone"
+        Description3: "and in a line up to the zone."
+        Description4: ""
+        Description5: ""
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
       X: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
-        Description10: 
+        Name: "ROLLING THUNDER"
+        Description1: "EQUIP a seismic charge. FIRE to send a cascading quake"
+        Description2: "through all terrain in a large cone. The quake dazes and"
+        Description3: "knocks up anyone caught in it."
+        Description4: ""
+        Description5: ""
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
+        Description10: ""
   Omen: 
-    Name: 
-    Type: 
-    Slot: 
-    Texture: 
-    Signature: 
-    Texture_picked: 
+    Name: "Omen"
+    Type: "Controller"
+    Slot: 2
+    Texture: "ewogICJ0aW1lc3RhbXAiIDogMTYzODkxMTY3OTE2OSwKICAicHJvZmlsZUlkIiA6ICJkODAwZDI4MDlmNTE0ZjkxODk4YTU4MWYzODE0Yzc5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0aGVCTFJ4eCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YWFmMzkxN2QyNWFjY2JlMTQ1ZmZkOWVmMThkYjQ5ZTkwOWJmNTE4YmZkOTI3YTFkOTZmNWJiY2M2ZDc0ZmE0IgogICAgfQogIH0KfQ=="
+    Signature: "NmGSXXgPcmUx42gbW7Fz9uQmN3lShVMMaiaNPOz5I9jDbsC8k3rS7P568lfnRM3l1dtZ6dzGRZg+bGvCy+3Lc0rsinRj06myWnsBpUihQVs2jk4VuFIyj1s6RBELSvjmeVHhVfXZDX9vT+hrPj1R8VpQx1JGzOL+RiTUgirk4WS7b2SXCgATeiaGusQsQP9RLn1fDz/HhkFEZg7mEoU7bhYl4nP+Y1McfhFyKmLcLLdqmtwhFfDCwwI85xOC0Nq8knOwWrM5x8UeU1HHjpOm0to6ZUGAPXC9+TA+jgrGFLBOyXfebBAiKs+1/o059zBrqAm0PsaaT4/TB+gBzjwu22MFuOCk124Nvm4NERqOI0VKKuNVCYlTZTXMuATQZvUkV9ie8hd7Lx1j3IUsRmvMab2nfgH6tj8a8WWTOT/VSXu99Qr4ZODBvZRdYSy9hTTh0Vvpgm/2S5bcIAY5XgLp34NRHfy1vUh076GhseptmzvxmClE2wgSV6ELVU8xeFermy6jTcCEQQZ3T18+WVUa0spUTtp5CsAlsdJsDVkORt5GspXnAYLPEOLg2KgWadSNS0cEFATEX7VjYzAcsKF8fh+BUBgoxxGRgnZs5I0+4vRJBbNY5/LCdkc291HtXG9RiWNo3fvnH7BwlmErFMIMZO5OEnfzDug+D2Isy4zP43g="
+    Texture_picked: "ewogICJ0aW1lc3RhbXAiIDogMTY1MDIyNzUzMTk0NCwKICAicHJvZmlsZUlkIiA6ICIzOTVkZTJlYjVjNjU0ZmRkOWQ2NDAwY2JhNmNmNjFhNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGFyZXN0ZXZlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJiOGQ5ZmQ4ZTVkNjRkMGNiMjdlNzA2MTA1ZDViM2RmYmJiOTE3OWZmNjY1YWI4NjU5YzEyNDFlZGI5ZTdmYjciCiAgICB9CiAgfQp9"
     History: 
-      History1: 
-      History2: 
-      History3: 
-      History4: 
-      History5: 
-      History6: 
+      History1: "A phantom of a memory, Omen hunts in the"
+      History2: "shadows. He renders enemies blind, teleports"
+      History3: "across the field, then lets paranoia take hold as"
+      History4: "his foe scrambles to learn where he might"
+      History5: "strike next."
+      History6: ""
     Ability: 
       C: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
+        Name: "SHROUDED STEP"
+        Description1: "EQUIP a shadow walk ability and see its range indicator."
+        Description2: "FIRE to begin a brief channel, then teleport to the marked"
+        Description3: "location."
+        Description4: ""
+        Description5: ""
+        Description6: ""
       Q: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
+        Name: "PARANOIA"
+        Description1: "INSTANTLY fire a shadow projectile forward, briefly"
+        Description2: "reducing the vision range of all players it"
+        Description3: "touches. This projectile can pass straight through walls."
+        Description4: ""
+        Description5: ""
       E: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
+        Name: "DARK COVER"
+        Description1: "EQUIP a shadow orb and see its range indicator. FIRE to"
+        Description2: "throw the shadow orb to the marked location, creating"
+        Description3: "a long-lasting shadow sphere that blocks vision."
+        Description4: "HOLD ALTERNATE FIRE while targeting to move the marker"
+        Description5: "further away. HOLD the ability key with targeting to"
+        Description6: "move the marker closer."
+        Description7: ""
+        Description8: ""
+        Description9: ""
       X: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
-        Description10: 
+        Name: "FROM THE SHADOWS"
+        Description1: "EQUIP a tactical map. FIRE to begin teleporting to the"
+        Description2: "selected location. While teleporting, Omen will appear as a"
+        Description3: "Shade that can be destroyed by an enemy to cancel his teleport."
+        Description4: ""
+        Description5: ""
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
+        Description10: ""
   Jett: 
     Name: 
     Type: 
