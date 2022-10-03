@@ -532,111 +532,111 @@ Agents:
         Description9: ""
         Description10: ""
   Jett: 
-    Name: 
-    Type: 
-    Slot: 
-    Texture: 
-    Signature: 
-    Texture_picked: 
+    Name: "Jett"
+    Type: "Duelist"
+    Slot: 8
+    Texture: "ewogICJ0aW1lc3RhbXAiIDogMTY0NDY2MDc5NzI4NSwKICAicHJvZmlsZUlkIiA6ICJkMGI4MjE1OThmMTE0NzI1ODBmNmNiZTliOGUxYmU3MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJqYmFydHl5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YwZGI2ZDkzOTYzNzZhYjM0NGI3M2FhMWNlM2RmNzEzNTY4NGY3YTMxMTdkM2NhMjBkNTRiZGJiNTRiNTAxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+    Signature: "dp4SHz6J3K2fitAQ6mNnu5rt6c53SfWNFXD9kCbW2crVt0fNXjNBBbdvWbXonQHhpU+kQ1++Rz6rlH9/op50m2V2+F/OqaSUnVRxMHPyraB1hI987WiCivC2orHxxw1MJb3xfisLYL2R6TAfL7eRXYya02y2Ts7LcvYvlH7KKi408e+RPotnqDBMsD2uTEuKWgX//wXjgGnINZv6AocI/OnNrPOBDDMgtSJa4uagFI4z21CtAn7CJdDLd7ys1068o0ES0yPSM1j83ArgWiBv4IIiIZjJyVmsDc7N0qjybDPgTDSkUL22qwElaZqhezVNYviawIOqhjr7MdmYDEabGKt6IdN4rhtezbK17G4uu+hX4YovgK1HeZWsjbv5keSnrJMG2eAGTZQnxl/SBdcMi/W4G9UDGcg1QRYKkVIdBsaWUj85/UGm65Tqef5jTjCDnhGsMQ/urRDSbn/uNDA7QXVBGrMdWFRDMFfoYQ38M9piDyW8V+B0+FZnyrEVzKYxhS8Vfi3At5CAoVguc7pffzbg/hsssk+v05/EtgRvkMk0zwskNe2TAeks7lietANqJ4LDPHaTLvj/bfNTwfOhB9r9H8yV2OUx1Eh5r+O8b6zLrhkgvEhEXxHNV16tbpsxiB9nnQYE/wXExJQpHZN82KPcNGb7kE6BDXd37/V+OtU="
+    Texture_picked: "ewogICJ0aW1lc3RhbXAiIDogMTY1MDIyNzU2MzQ5MiwKICAicHJvZmlsZUlkIiA6ICIxMGYwY2YzYTBhYzI0ZTUzYTliYzQ5NmNkMGFhYWE5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGcmFhbmNpc2NvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQyMDhkZTA3NzgxNTJmNzU0YTBlMjBjNWMwZjJkZThjMWExODkxNDRlYjgzYTBhYTBmNWNlMzliZTJhMmQ5MGUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
     History: 
-      History1: 
-      History2: 
-      History3: 
-      History4: 
-      History5: 
-      History6: 
+      History1: "Representing her home country of South Korea,"
+      History2: "Jett's agile and evasive fighting style lets her"
+      History3: "take risks no one else can. She runs circles"
+      History4: "around every skirmish, cutting enemies before"
+      History5: "they even know what hit them."
+      History6: ""
     Ability: 
       C: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
+        Name: "CLOUDBURST"
+        Description1: "INSTANTLY throw a projectile that expands into a brief"
+        Description2: "vision-blocking cloud on impact with a surface. HOLD the"
+        Description3: "ability key to curve the smoke in the direction of your"
+        Description4: "crosshair."
+        Description5: ""
+        Description6: ""
       Q: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
+        Name: "UPDRAFT"
+        Description1: "INSTANTLY propel Jett high into the air."
+        Description2: ""
+        Description3: ""
+        Description4: ""
+        Description5: ""
       E: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
+        Name: "TAILWIND"
+        Description1: "INSTANTLY propel Jett in the direction she is moving. If Jett"
+        Description2: "is standing still, she will propel forward."
+        Description3: ""
+        Description4: ""
+        Description5: ""
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
       X: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
-        Description10: 
+        Name: "BLADE STORM"
+        Description1: "EQUIP a set of highly accurate knives that recharge on killing"
+        Description2: "an opponent. FIRE to throw a single knife at your target."
+        Description3: "ALTERNATE FIRE to throw all remaining daggers at your target."
+        Description4: ""
+        Description5: ""
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
+        Description10: ""
   Raze: 
-    Name: 
-    Type: 
-    Slot: 
-    Texture: 
-    Signature: 
-    Texture_picked: 
+    Name: "Raze"
+    Type: "Duelist"
+    Slot: 10
+    Texture: "ewogICJ0aW1lc3RhbXAiIDogMTY0NDg1MDA2OTU0MiwKICAicHJvZmlsZUlkIiA6ICJjMGYzYjI3YTUwMDE0YzVhYjIxZDc5ZGRlMTAxZGZlMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDEzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc1ZTk2ZTNlM2FhYjU0NTMzY2U3NjE1NWQ5MDJlODVlY2Y2YThhNTYzMzEwMDgxZjhiYzE4NzExNDc3MmU1NGIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+    Signature: "jTgpOYP3vy+V4Qvza4WSndO9rYOOyRWmIcUfuyvjGuvzqqB1cnYKmzJ7XCJQKAd1hSWOtgQhAuX2Mg19AryCbXwBKh6RrpLBhM9DQEQzvTw/WVy2lAJLl7GuPIbkRdXMKFpht8rTA32I/YxRmvQNHihJQGJyzs0imm5w0ZBCxCKIS7CcYauTEF+uLmgm7C/vydYWn0orSinw2BXsNX9qVd4syOBUN7BRf490qqngyEfflAAqMFMSb+R4f4s9DNhe7PD8Ob1fCx8xHUTtt/uaDaMnE+QdcEOmKaVpeIQeRPQFuX75LD2k6QKiNnSbeTgggj+8M2atCAIazbSnHv9NyCw1wGPAz2v6S+UxL+X1YFvlyM+WUaSnoGE4bqCYuIpLSqZXnVtw2FhaIlrPPo5/26aJ+WDeaIhN9YEvhO2QLswtzIrqXaLSpyrFXN7FAOpxfoRBl8yZ+FiBA2c6DJgB6lqjtfy0zicLgIyhtOwvYtkJUjXgSQZukPAgYl20ftr2vi1e8Y8CH/lYyD6WKgjk9hXt70ODE8CIMfylLSsV3KU1+3DTzG+DoOP9PZd3n2jtHfgyAAYaaS1ETSK4m5bIsZZFHd8iCt6xlDMRA9yGAKRYg/53ygCMpZv8qn74PdJQFn4x2gKmr8o5lrFIIZwEYA7hLobOuzS6qALljcC/eEk="
+    Texture_picked: "ewogICJ0aW1lc3RhbXAiIDogMTY1MDIyNzUxNjI1NSwKICAicHJvZmlsZUlkIiA6ICJkYmQ4MDQ2M2EwMzY0Y2FjYjI3OGNhODBhMDBkZGIxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4bG9nMjEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzQ5NGM4OWEyMTZhZDYxYjQ4ZjE3MzZmN2RkY2RjNTkxYTE2OTBmYjE0ZGY5YTZmYWU0YTkyMGQ2MWRhNDcxZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
     History: 
-      History1: 
-      History2: 
-      History3: 
-      History4: 
-      History5: 
-      History6: 
+      History1: "Raze explodes out of Brazil with her big"
+      History2: "personality and big guns. With her blunt-force-"
+      History3: "trauma playstyle, she excels at flushing"
+      History4: "entrenched enemies and clearing tight spaces"
+      History5: "with a generous dose of 'boom.'"
+      History6: ""
     Ability: 
       C: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
+        Name: "BOOM BOT"
+        Description1: "EQUIP a Boom Bot. FIRE will deploy the bot, causing it to"
+        Description2: "travel in a straight line on the ground, bouncing off walls."
+        Description3: "The Boom Bot will lock on to any enemies in its frontal cone"
+        Description4: "and chase them, exploding for heavy damage if it reaches"
+        Description5: "them."
+        Description6: ""
       Q: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
+        Name: "BLAST PACK"
+        Description1: "INSTANTLY throw a Blast Pack that will stick to surfaces."
+        Description2: "RE-USE the ability after deployment to detonate, damaging"
+        Description3: "and moving anything hit. Raze isn't damaged by this ability,"
+        Description4: "but will still take fall damage if launched up far enough.",
+        Description5: ""
       E: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
+        Name: "PAINT SHELLS"
+        Description1: "EQUIP a cluster grenade. FIRE to throw the grenade, which"
+        Description2: "does damage and creates sub-munitions, each doing"
+        Description3: "damage to anyone in their range."
+        Description4: ""
+        Description5: ""
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
       X: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
-        Description10: 
+        Name: "SHOWSTOPPER"
+        Description1: "EQUIP a rocket launcher. FIRE shoots a rocket that does"
+        Description2: "massive area damage on contact with anything."
+        Description3: ""
+        Description4: ""
+        Description5: ""
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
+        Description10: ""
   Skye: 
     Name: 
     Type: 
