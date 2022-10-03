@@ -1542,11 +1542,11 @@ Shields:
     Description2: "absorbed 25 damage."
   Heavy: 
     Type: "HeavyShield"
-      Slot: 2
-      Price: 1000
-      Material: "DIAMOND_CHESTPLATE"
-      Name: "HeavyShield"
-      displayName: "HEAVY SHIELD"
-      Durability: 50
-      Description1: "Absorbs 66% of total damage taken. Breaks after it has"
-      Description2: "absorbed 50 damage."
+    Slot: 2
+    Price: 1000
+    Material: "DIAMOND_CHESTPLATE"
+    Name: "HeavyShield"
+    displayName: "HEAVY SHIELD"
+    Durability: 50
+    Description1: "Absorbs 66% of total damage taken. Breaks after it has"
+    Description2: "absorbed 50 damage."
