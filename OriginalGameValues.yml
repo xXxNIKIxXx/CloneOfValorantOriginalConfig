@@ -744,111 +744,111 @@ Agents:
         Description9: ""
         Description10: ""
   Astra: 
-    Name: 
-    Type: 
-    Slot: 
-    Texture: 
-    Signature: 
-    Texture_picked: 
+    Name: "Astra"
+    Type: "Controller"
+    Slot: 14
+    Texture: "ewogICJ0aW1lc3RhbXAiIDogMTY0ODkyMTYxNDA3MywKICAicHJvZmlsZUlkIiA6ICJiNDY1MGUxYjZjZDQ0YzdlOGJmMTE3YzQ0YzQ5ZjU2MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJQMWV4eSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84NDg2YTljN2E0ODdlYzEzNGQzYTBjNWJiYjYzNzEyY2MzMzlmYWYyNjJhMGNiNmJiNWRmN2Y2Nzg1ZjZkMzg4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+    Signature: "AcDyR6wriTTr9LX0zN6jzi1voDzFM9fvddinKRcYrX9Ry4mwa0j6yiIKMSvxQEyCe4NJ312DkA+h16Q9YtgTbH1hFF8eeFUlrJp9rTk1jdszp+wsuwuaTZrMMOwSagZJaH8r9blYwep/I0JLZSwxZwb8Mo8ACMm0Vq4tBcM1Xbcc4/OlGI01onwOSpEdha1Owu3g+3bIlXiJVq8AxlW3amFnK1p9t3Bipb4Es474aQRxztqzZwKM9jv9h0zS5Ch4Xe9ntVPFUHpjsb7omwO9QNxMZsk7tyP4hm/BvmDb4re49RfJTje70YRJON8Lu0uDnPtNOSKb/aD/2CcoIsA4BmYbCdHmZw80uOoKlFtjEHYuZODuD68jhmlt2+GOoBrPCGKghNq7F/432TMTtm0chDkDZLU3X9im0wyIJj2YSeQW1/VL8IRiaMYataJ6L/2KCefWDdQETTmxU10T/yXkPXx9pbLivPgiHL/FFKLfR05JRUoaZWuog75jksBUpCcVU6/YXkYncaQ4KbndY6t0ON8uLYJn0Tp7ALYQGdu5YXFvWIS77YelfuItKfAXWGTBK6VEfueLAxqQGFHOQfhKeBmW4XWRyDoyHc0DT8meFVtvWl1sHXY8PcUlhRNAun/dDBOHV5b00cjggVoaec9WSJH435LSC3SoK9dSSsouo5A="
+    Texture_picked: "ewogICJ0aW1lc3RhbXAiIDogMTY1MDIyNzYwMTA4MiwKICAicHJvZmlsZUlkIiA6ICJkYmQyYjU4N2VjMWY0ZTgxYTNkOGFlODM5OWJiMDFjMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJjYXRzaW5zcGFjZWUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDYxNzg4NDBmYzNjOTJiOGM5NjYzZTFhYmM2ZTE4ZTRlZGZjNmNmNTkyNDQzZTQ0N2QwYWZiYWQ0NzMxMzliZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
     History: 
-      History1: 
-      History2: 
-      History3: 
-      History4: 
-      History5: 
-      History6: 
+      History1: "Ghanaian Agent Astra harnesses the energies of"
+      History2: "the cosmos to reshape battlefields to her whim."
+      History3: "With full command of her astral form and a talent"
+      History4: "for deep strategic foresight, she's always eons"
+      History5: "ahead of her enemy's next move."
+      History6: ""
     Ability: 
       C: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
+        Name: "GRAVITY WELL"
+        Description1: "Place Stars in Astral Form (X)."
+        Description2: ""
+        Description3: "ACTIVATE a Star to form a Gravity Well. Players in the area"
+        Description4: "are pulled toward the center before it explodes, making all"
+        Description5: "players still trapped inside fragile."
+        Description6: ""
       Q: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
+        Name: "NOVA PULSE"
+        Description1: "Place Stars in Astral Form (X)."
+        Description2: ""
+        Description3: "ACTIVATE a Star to detonate a Nova Pulse. The Nova Pulse"
+        Description4: "charges briefly then strikes, concussing all players in its"
+        Description5: "area."
       E: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
+        Name: "NEBULA"
+        Description1: "Place Stars in Astral Form (X)."
+        Description2: ""
+        Description3: "ACTIVATE a Star to transform it into a Nebula (smoke)."
+        Description4: ""
+        Description5: "Use (F) on a Star to Dissipate it, returning the star to be placed in"
+        Description6: "a new location after a delay."
+        Description7: ""
+        Description8: "Dissipate briefly forms a fake Nebula at the Star’s location"
+        Description9: "before returning."
       X: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
-        Description10: 
+        Name: "ASTRAL FORM / COSMIC DIVIDE"
+        Description1: "ACTIVATE (X) to enter Astral Form where you can place Stars"
+        Description2: "with PRIMARY FIRE. Stars can be reactivated later,"
+        Description3: "transforming them into a Nova Pulse, Nebula, or Gravity"
+        Description4: "Well."
+        Description5: ""
+        Description6: "When Cosmic Divide is charged, use SECONDARY FIRE in"
+        Description7: "Astral Form to begin aiming it, then PRIMARY FIRE to select"
+        Description8: "two locations. An infinite Cosmic Divide connects the two"
+        Description9: "points you select. Cosmic Divide blocks bullets and heavily"
+        Description10: "dampens audio."
   Kay_O: 
-    Name: 
-    Type: 
-    Slot: 
-    Texture: 
-    Signature: 
-    Texture_picked: 
+    Name: "KAY/O"
+    Type: "Initiator"
+    Slot: 15
+    Texture: "ewogICJ0aW1lc3RhbXAiIDogMTY0NDg0OTY4MTg2OCwKICAicHJvZmlsZUlkIiA6ICJhYTZhNDA5NjU4YTk0MDIwYmU3OGQwN2JkMzVlNTg5MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJiejE0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ExNmNkNzc3MzRmZmQ3OTkwYjg5ODBhMDkzYWZiYzc5M2VkNzUwMjA2MjUxYTY5ODA2MmQxMDNjN2EwNGZjZjEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+    Signature: "Ws7Y6s6+yWd+wJG51cBMgZzjbhaN8h6SvsRQvUXv0YdMai3U9PLv8ryDajxrz2jUAXBT4uAYxQA54H5udd/A+MBFoM09TPQZXO9jIV6B20B0hZjzb48Yv9582MEKFiJeUYW/ugXqR3fabrr1lU6plDGLQ7XuNJF8F+PaOS4JtiOZXmNARsNA11jLMvk/DWyGqfp2zzb0Zt+gt+HsLbY0LkVN/9Ytn9dFcUlFUjZ2W/zYWhxKI35lquwGDJsSIwEWmXNKzat/FTM2mASv3OIjb8WJ82J9la3XWDD6gd+v4svfIVjTfWlvkby0aGY5ubmIjxlcjW/az6u5gCgsdfj5QfebPE8MRBn4G8SLTJkgqBjD1BWbL3/93UjKQxH7G9b0rX8M7/CU6GgVI0RgzOwGW//LEBjdsq0t6htKN+3w3wKm4TES4cImRTm52Eka/dVaPDflu7d8TNnnPmXUj1uP0Rpbhs0Ikl7nAyCNwI+LE+80FAa6NltAghi7ocopeSJ03r2NYX6srFeZh0RtYqYACqJE10SwhyRoc9Un3rWe4vToLsubr20cH6XSc0DK/dyDPZIJxdyndyW9IDL25FFNRsA69VmAkv8YNZx70rTemxYELIhwgrpEPa3t2D6bT8+/UVeK9HJPMLSU6x8woEMOxYjxES84srnb0F+GKo5e70c="
+    Texture_picked: "ewogICJ0aW1lc3RhbXAiIDogMTY1MDIyNzU1NTYxOCwKICAicHJvZmlsZUlkIiA6ICI0OWIzODUyNDdhMWY0NTM3YjBmN2MwZTFmMTVjMTc2NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJiY2QyMDMzYzYzZWM0YmY4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzExMjJlOTQxYjM0MjE5YzBmZWI3MmY2OWY5OGE3MTBmYjdmYjQ2NDI4NGQ5YzAwY2FlMjJmYjZkNWVjNDdjMzkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
     History: 
-      History1: 
-      History2: 
-      History3: 
-      History4: 
-      History5: 
-      History6: 
+      History1: "KAY/O is a machine of war built for a single"
+      History2: "purpose: neutralizing radiants. His power to"
+      History3: "suppress enemy abilities cripples his opponents'"
+      History4: "capacity to fight back, securing him and his allies"
+      History5: "the ultimate edge."
+      History6: ""
     Ability: 
       C: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
+        Name: "FRAG/MENT"
+        Description1: "EQUIP an explosive fragment. FIRE to throw. The fragment"
+        Description2: "sticks to the floor and explodes multiple times, dealing near"
+        Description3: "lethal damage at the center with each explosion."
+        Description4: ""
+        Description5: ""
+        Description6: ""
       Q: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
+        Name: "FLASH/DRIVE"
+        Description1: "EQUIP a flash grenade. FIRE to throw. The flash grenade"
+        Description2: "explodes after a short fuse, blinding anyone in line of sight."
+        Description3: ""
+        Description4: ""
+        Description5: ""
       E: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
+        Name: "ZERO/POINT"
+        Description1: "EQUIP a suppression blade. FIRE to throw. The blade sticks"
+        Description2: "to the first surface it hits, winds up, and suppresses anyone"
+        Description3: "in the radius of the explosion."
+        Description4: ""
+        Description5: ""
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
       X: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
-        Description10: 
+        Name: "NULL/CMD"
+        Description1: "INSTANTLY overload with polarized radianite energy that"
+        Description2: "empowers KAY/O and causes large energy pulses to emit"
+        Description3: "from his location. Enemies hit with these pulses are"
+        Description4: "suppressed for a short duration."
+        Description5: ""
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
+        Description10: ""
   Chamber: 
     Name: 
     Type: 
