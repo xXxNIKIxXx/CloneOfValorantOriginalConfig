@@ -320,111 +320,111 @@ Agents:
         Description9: ""
         Description10: ""
   Reyna: 
-    Name: 
-    Type: 
-    Slot: 
-    Texture: 
-    Signature: 
-    Texture_picked: 
+    Name: "Reyna"
+    Type: "Duelist"
+    Slot: 9
+    Texture: "ewogICJ0aW1lc3RhbXAiIDogMTY0MTIyNTQ0NDU5NywKICAicHJvZmlsZUlkIiA6ICI0NWY3YTJlNjE3ODE0YjJjODAwODM5MmRmN2IzNWY0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfSnVzdERvSXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2E2MjEwODAzY2MxMGI2YThmMjRmZGViZDhkYWUyZmEwMTk5MDE4ZWUxYzUyNmU3YjdiZmM1Y2M5YThiZTM2ZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+    Signature: "IOVkKWM4Ti4fJxegmwM8lJMeW14ucTjafoSHlSMllf1cM24Lefo4p2OQAPnviojbiYdK4EfT9ngy8w4XeZkcqxqHEn2UQtKe5d65gTY+SvL9PZGxCCJFb0gfFIJeurNPUrdD5xtyoCdSBz5dk6d0mCN4BLwAxm/TtWXwnYwS9J55ZZRDwUC/Y+AYGIp6uiTJnnnAoKUeOgG6W6/ZSaWhdmh/7iD+/LJMtxn4KF705rP9Jgi6Lp2f8bA795jF9+QpWlrbQrJZc6bZke37AfynW1D2mBGpceQitLcwmVlZjl4dTIt8qAE/Wfb4I9P8/AhyRtNotwmNbDFNGomkKQPDkAAdwdwBaBreMAORcZ2O1Ee6CpNakCS+03ryeLVIdLQEnUJoiSBRhrwMcLIWSYTYiY+iaC4hVOL6wQkA/1s4foQVmcm9fRvh9eoId3h2MoCzz0FAqBj99N8WRA6s68F8urj6lsh+Uo7Jm+So76WGclMLMYEUzpfJD47sPxwP5Byt3t8tF1LLX2spBi4dV9jv9DuQqDDSf7YW3jJSQc+K41F6AyDmQqw49R2AsPPeBLSoe5bWKA/weeEP3R+nuSzmu34IWGCKy54eLZP4hx8PGTh+eyMcNBmMoyZJ3wmUnTTX0hJZVkZsMVokGNxapHctMKmexYKm5NM9BYWL2sLFB90="
+    Texture_picked: "ewogICJ0aW1lc3RhbXAiIDogMTY1MDIyNzUwODg4NywKICAicHJvZmlsZUlkIiA6ICI4YmM3MjdlYThjZjA0YWUzYTI4MDVhY2YzNjRjMmQyNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJub3RpbnZlbnRpdmUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWI3ZmY1MDc0ZDMyNTRmYjI1OGFkZmQ4OWJiOGE3MjY5MGZkYTM5NDhjMmU3NmI1ZjUwNmYwYmVjZTIwN2JlOSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
     History: 
-      History1: 
-      History2: 
-      History3: 
-      History4: 
-      History5: 
-      History6: 
+      History1: "Forged in the heart of Mexico, Reyna dominates"
+      History2: "single combat, popping off with each kill she"
+      History3: "scores. Her capability is only limited by her raw"
+      History4: "skill, making her highly dependent on"
+      History5: "performance."
+      History6: ""
     Ability: 
       C: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
+        Name: "LEER"
+        Description1: "EQUIP an ethereal destructible eye. ACTIVATE to cast the"
+        Description2: "eye a short distance forward. The eye will Nearsight all"
+        Description3: "enemies who look at it."
+        Description4: ""
+        Description5: ""
+        Description6: ""
       Q: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
+        Name: "DEVOUR"
+        Description1: "Enemies killed by Reyna leave behind Soul Orbs that last 3"
+        Description2: "seconds. INSTANTLY consume a nearby soul orb, rapidly healing"
+        Description3: "for a short duration. Health gained through this skill"
+        Description4: "exceeding 100 will decay over time. If EMPRESS is active,"
+        Description5: "this skill will automatically cast and not consume the orb."
       E: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
+        Name: "DISMISS"
+        Description1: "INSTANTLY consume a nearby soul orb, becoming"
+        Description2: "intangible for a short duration. If EMPRESS is active, also"
+        Description3: "become invisible."
+        Description4: ""
+        Description5: ""
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
       X: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
-        Description10: 
+        Name: "EMPRESS"
+        Description1: "INSTANTLY enter a frenzy, increasing firing speed, equip and"
+        Description2: "reload speed dramatically. Scoring a kill renews the duration."
+        Description3: ""
+        Description4: ""
+        Description5: ""
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
+        Description10: ""
   Killjoy: 
-    Name: 
-    Type: 
-    Slot: 
-    Texture: 
-    Signature: 
-    Texture_picked: 
+    Name: "Killjoy"
+    Type: "Sentinel"
+    Slot: 3
+    Texture: "ewogICJ0aW1lc3RhbXAiIDogMTYzMjYyODI5MTgyOCwKICAicHJvZmlsZUlkIiA6ICI2NDU4Mjc0MjEyNDg0MDY0YTRkMDBlNDdjZWM4ZjcyZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaDNtMXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTVkNzkwNDFmNDNlNDA4ZjQ2OTA4OGEzODRkYjhiNGNhYTllN2Q4YmE1YzdjMDA3NDM3MTFlNmY4NTM3OTAxYyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+    Signature: "gAC6qa2yp0wd7VHopVVDX4kmAWMgmRwDywFcCC3dpHew6LRBCibdLzYKQvZN7YOxq/NPf0K/2nZjW0IGZEhRFjDXG/hFSOA6y7nDneYIVxgY0gucdcIcc66tDeF8vZNdGJfGJoifKyUpvP7jiD6/MnwO/U7lIUEKoanXWZPQ6d19M4EXSmbuch304gQeeq5SBvRgoTDlFvczvVsmM3yTYlWcHUV3xU4CV0UQsBhEz4/aWpmN+FZsET6rRo31hJc+HQE0770I5pKTzj4ARKH4MFWiSWSRL/vm+EXmdfYTa7uzpV6itqkHuKv7anWGOpyYRBX2ehg4YdMwxHqpHXbuIVCZpV/yRlKMTcwhNc5+KtCN1nnUWupGNMwmlDpX6w/NGr+8GUOsNgwQ0bkRObOM+MrVo7eqyT033I+cWBENldUNiKo/4PihD5QmE6wmJyoutaqxvFlNUcY/dLdRSTrvIMl7aSiOf3zrJbM9DCfn0n+cNX0HBkSj9L5VcmxcKsf6QB4pqAYwl/lY5uAK0Kmq/7ZExnxVLHlZJQ0CcvRpF5d8znJDsKuk60wiNd5JWNYX6lIBiOsIKttUkBHv3xAl4kXNzG0FdC/Cbiui1RKYsnSINwOxYcr0ErDSxwvHF5puauO9ARy226vKiIxVNmPiIi3GfhGar5CpK1l7en4s5EI="
+    Texture_picked: "ewogICJ0aW1lc3RhbXAiIDogMTY1MDIyNzU0NzY0MywKICAicHJvZmlsZUlkIiA6ICIyOTNiMmM0NDEwMmQ0ZjRmYjRjMzExM2M0YTYzZDhjYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDb3NtaWNSZWRXb2xmUngiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjQ5N2QwMzA4ZThkM2EzYmIyYmIzY2U3NzY1YmUyYWU5MTc1OTkyNjU4NGE4ODdlNzhiY2JhZGMwYzZiZTFhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
     History: 
-      History1: 
-      History2: 
-      History3: 
-      History4: 
-      History5: 
-      History6: 
+      History1: "The genius of Germany. Killjoy secures and"
+      History2: "defends key battlefield positions with a collection"
+      History3: "of traps, turrets, and mines. Each invention is"
+      History4: "primed to punish any assaithant too dumb to back"
+      History5: "down."
+      History6: ""
     Ability: 
       C: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
+        Name: "NANOSWARM"
+        Description1: "EQUIP a Nanoswarm grenade. FIRE to throw the grenade."
+        Description2: "Upon landing, the Nanoswarm goes covert. ACTIVATE the"
+        Description3: "Nanoswarm to deploy a damaging swarm of nanobots."
+        Description4: ""
+        Description5: ""
+        Description6: ""
       Q: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
+        Name: "ALARMBOT"
+        Description1: "EQUIP a covert Alarmbot. FIRE to deploy a bot that hunts"
+        Description2: "down enemies that get in range. After reaching its target,"
+        Description3: "the bot explodes, applying Vulernable. HOLD EQUIP to"
+        Description4: "recall a deployed bot."
+        Description5: ""
       E: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
+        Name: "TURRET"
+        Description1: "EQUIP a Turret. FIRE to deploy a turret that fires at enemies"
+        Description2: "in a 180 degree cone. HOLD EQUIP to recall the deployed"
+        Description3: "turret."
+        Description4: ""
+        Description5: ""
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
       X: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
-        Description10: 
+        Name: "LOCKDOWN"
+        Description1: "EQUIP the Lockdown device. FIRE to deploy the device. After"
+        Description2: "a long windup, the device Detains all enemies caught in the"
+        Description3: "radius. The device can be destroyed by enemies."
+        Description4: ""
+        Description5: ""
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
+        Description10: ""
   Breach: 
     Name: 
     Type: 
