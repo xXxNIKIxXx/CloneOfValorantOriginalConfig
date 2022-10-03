@@ -850,111 +850,111 @@ Agents:
         Description9: ""
         Description10: ""
   Chamber: 
-    Name: 
-    Type: 
-    Slot: 
-    Texture: 
-    Signature: 
-    Texture_picked: 
+    Name: "Chamber"
+    Type: "Sentinel"
+    Slot: 16
+    Texture: "ewogICJ0aW1lc3RhbXAiIDogMTY0NzM0ODAxNTExOSwKICAicHJvZmlsZUlkIiA6ICI5ZWU3NTUxOGQyZWE0Y2Q4OGJiNGI1YTZkNmVhNTFjYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaWNyb3MxMTgyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI4NGQwOGNmZGEyNWFlNGVlYTZmOWQ5MjgzZjAyOWY0NjVlMmMyZGUxNzcxMGQ4NDkxNzFjYTdkNjhjMTA0YTciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+    Signature: "qRQCb78eo94MmRtsy0VZ7+FiyquNpVbTNbpOASdS4WwJeEtWPkyCugd9en0oIIzoVr9w92N3rpXuggpX/0udWeAm2ficS0wllYUYZ0KE6Ai+/BjR5hCOlmm5mo3vGoRIuluL6z/z8NPmk+p7ifd5TYr9zBu5jyjLjjgxnJEPaFe+lDbH1tCgw42STSJLAbmpIlmEaD2nIaUDq4+aeJe4PnUfTKbkzhx0I6IQp6kOjK0FE9emnTNYzoZz49Xf/bU9lxjDze5B8uP62VmKjZNTBR0+QloR8fOGl/hoDFYj/YHI08NeoDEwdG9Szn2+Wvdwu2BIgwktgd88pzf+ZxeDSf3MgMyxDZOenqseVYvvsZcSEtBk6X50Qp7Yp+pAptoZHbRcln8A0SVs6uHSOATYnGh+V5j2neGfT4uVSMD9WsTcaWodSK4AU3XA4bMalQWH9/jBLzIip3Glhwae7FpfVkFWNfacRw/whk6C9OpuWW8tyDAfTXxPZoOxDKL74vxWEo3zO0HWu6utZG5CQ57UAGCWLlnccG1Lf1rp/QTUwNWEdZMQzCRJ18S5ZXASedR7cF72fgKfVpBVVfszotEOAhp8EOsSTaY9HHZgg8j9QiWNVGz9wHozKEJZSzBYi8Xn7FlEMiqpV7VTX+xHYa22hTtQfP4QHjXAKkFWjkIzOcI="
+    Texture_picked: "ewogICJ0aW1lc3RhbXAiIDogMTY1MDIyNzU3ODI2MywKICAicHJvZmlsZUlkIiA6ICJjNTBhZmE4YWJlYjk0ZTQ1OTRiZjFiNDI1YTk4MGYwMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJQdlBUaGlldmVzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I1ZWQ0OGZlZjRhNWI4MzFiMGZlYTcxNjQwOTBjMjllODhmOGJjMDBiZjI5NmY5NWJmOTY3ZDU5MGJhZTU1NTgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
     History: 
-      History1: 
-      History2: 
-      History3: 
-      History4: 
-      History5: 
-      History6: 
+      History1: "Well dressed and well armed, French weapons"
+      History2: "designer Chamber expels aggressors with"
+      History3: "deadly precision. He leverages his custom"
+      History4: "arsenal to hold the line and pick off enemies"
+      History5: "from afar, with a contingency built for every"
+      History6: "plan."
     Ability: 
       C: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
+        Name: "TRADEMARK"
+        Description1: "PLACE a trap that scans for enemies. When a visible enemy"
+        Description2: "comes in range, the trap counts down and then destabilizes"
+        Description3: "the terrain around them, creating a lingering field that"
+        Description4: "slows players caught inside of it."
+        Description5: ""
+        Description6: ""
       Q: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
+        Name: "HEADHUNTER"
+        Description1: "ACTIVATE to equip a heavy pistol. ALT FIRE with the pistol"
+        Description2: "equipped to aim down sights."
+        Description3: ""
+        Description4: ""
+        Description5: ""
       E: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
+        Name: "RENDEZVOUS"
+        Description1: "PLACE two teleport anchors. While on the ground and in"
+        Description2: "range of an anchor, REACTIVATE to quickly teleport to the"
+        Description3: "other anchor. Anchors can be picked up to be"
+        Description4: "REDEPLOYED."
+        Description5: ""
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
       X: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
-        Description10: 
+        Name: "TOUR DE FORCE"
+        Description1: "ACTIVATE to summon a powerful custom sniper rifle that"
+        Description2: "will kill an enemy with any direct hit. Killing an enemy"
+        Description3: "creates a lingering field that slows players caught inside of"
+        Description4: "it."
+        Description5: ""
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
+        Description10: ""
   Neon: 
-    Name: 
-    Type: 
-    Slot: 
-    Texture: 
-    Signature: 
-    Texture_picked: 
+    Name: "Neon"
+    Type: "Duelist"
+    Slot: 17
+    Texture: "ewogICJ0aW1lc3RhbXAiIDogMTY0Mjg0NDQyNDgyOCwKICAicHJvZmlsZUlkIiA6ICI2YTAyOTE1MDVmNjA0YWYzOTU5NDBiMmZlNDllYzRiOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJfTWlncyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hNTNiNzliYjg5OGIyZTIwN2NlOWRmYWQ5ZGIxOWNmODgwZjkwYmY5OTg5OWI3NDk1NjY2MWJiNmYwODA2Mjk0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjM0MGMwZTAzZGQyNGExMWIxNWE4YjMzYzJhN2U5ZTMyYWJiMjA1MWIyNDgxZDBiYTdkZWZkNjM1Y2E3YTkzMyIKICAgIH0KICB9Cn0="
+    Signature: "b2Kd8vFGa/KKQRvzhpk0PCw+W6jqX1LlYWIn0YDftmbEaQW/VCExcGzd81leIAJT8mMk2wLem3XLU/Z2HAS6z0jF/mC6Qfb5PC2JFTQtR5lfclBcWTsQyVkrCmXySKETI/qnKnam9mW23PrYyjnRD60mKkTKZWJyGVjuhBvBjSW7k9lo06ACi4F98R1wVa7xoF24s1cpU6oaU/u6aGakv+mg0g/gO9xxgl/K/FZAslqsWmQgGAV+nAMxOh/gdASNse0z2i7ZGRt3CwrJqM2/HleveChyX8lXNiyGVKUak3itLfI/Ok/y1FqyV5qMLdI10NPBO444H6aqHMqaZNV6Kgk7ugyPk4Giq3ez7lPlU/raFKKZsjovhhZpUNR/tjWRVvHwI5ca7/5xZAy3/lbXqh47qsjEFpCgp3GhOMi+c1rmNiBPFxV6gHplHhENh2ZI0J3QZizzJ3TR5gsvFVDjD2BYd70HKWkpjNm+hSFGfqvFrujh7XLELCsbaD32FMN4I/wRKW+yL4uCPRUktftl3mhvMYc6bKZpd+T79lFfVnccRLCA6V6/t3CvHBCXHMw0wpx7VfArP+zbx82MwhzLXSAI9Ju64+eiabWDyviXkzT8sDIRAg8x/UaS/etBkcsC9kpU23gn9vsLnSS4A8pZjhHFKrmcj6TlIeDhAyjP2uE="
+    Texture_picked: "ewogICJ0aW1lc3RhbXAiIDogMTY1MDIyNzUzOTAwMCwKICAicHJvZmlsZUlkIiA6ICIzY2MxMTY3MWU0MTM0ODM0YjhjMmZjMTY1OGE4OWU3OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJSb3NzaTU2IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQzNGI4NTQxNGEyOWRmOWJmNmQ0MzNmZjY1NGE0MDE5ZjBlMzUzMWZhYWI2MDNmZjBjNjkwNjZiYTliMzhjMzAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
     History: 
-      History1: 
-      History2: 
-      History3: 
-      History4: 
-      History5: 
-      History6: 
+      History1: "Filipino Agent Neon surges forward at shocking"
+      History2: "speeds, discharging bursts of bioelectric"
+      History3: "radiance as fast as her body generates it. She"
+      History4: "races ahead to catch enemies off guard, then"
+      History5: "strikes them down quicker than lightning."
+      History6: ""
     Ability: 
       C: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
+        Name: "FAST LINE"
+        Description1: "FIRE two energy lines forward on the ground that extend a"
+        Description2: "short distance or until they hit a surface. The lines rise into"
+        Description3: "walls of static electricity that block vision and damage"
+        Description4: "enemies passing through them."
+        Description5: ""
+        Description6: ""
       Q: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
+        Name: "RELAY BOLT"
+        Description1: "INSTANTLY throw an energy bolt that bounces once. Upon"
+        Description2: "hitting each surface, the bolt electrifies the ground below"
+        Description3: "with a concussive blast."
+        Description4: ""
+        Description5: ""
       E: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
+        Name: "HIGH GEAR"
+        Description1: "INSTANTLY channel Neon’s power for increased speed."
+        Description2: "When charged, ALT FIRE to trigger an electric slide. Slide"
+        Description3: "charge resets every two kills."
+        Description4: ""
+        Description5: ""
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
       X: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
-        Description10: 
+        Name: "OVERDRIVE"
+        Description1: "Unleash Neon’s full power and speed for a short duration."
+        Description2: "FIRE to channel the power into a deadly lightning beam with"
+        Description3: "high movement accuracy."
+        Description4: ""
+        Description5: ""
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
+        Description10: ""
     
 Weapons: 
   Ranged: 
