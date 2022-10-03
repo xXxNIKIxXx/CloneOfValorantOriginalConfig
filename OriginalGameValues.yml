@@ -638,111 +638,111 @@ Agents:
         Description9: ""
         Description10: ""
   Skye: 
-    Name: 
-    Type: 
-    Slot: 
-    Texture: 
-    Signature: 
-    Texture_picked: 
+    Name: "Skye"
+    Type: "Initiator"
+    Slot: 12
+    Texture: "ewogICJ0aW1lc3RhbXAiIDogMTY0NDg0OTUwMjU0NCwKICAicHJvZmlsZUlkIiA6ICIzYzE0YmVkNDFiOGE0MDIzOGM3MDgzMTA1NzEwMTZmYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb2Jpa28iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjMxMzJlYWIxOGFlMWIyYjRmMjZmNGFhM2E4ZmY0NmIzMjAyODVjZTdkNDA2NmQyODNlMmJiYzMwNjNmNGEzOCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+    Signature: "jHKCOCd8KiGZ2jmFC7XFwRY/mD5XGpR+GkOwb5AUFkjkT6lZZ9b3pSdIY0eg33uukVUqU8jJjBVayOYdHytFcFm+ONwl4W1c+vkZpTJu37GwhUeWGX2vBYyT7SQgqVksif3DMvYGGgfkGymw813ZLhSuDAMxnQrPErXnc0F9+aZiQ42eZPfC2zhmf3LZYR8VhvsSCocwu+rJYL2Nl1mhafI2zgEyfZf9bFO0x4BZ3Izz17nHtrNbnSe3mEn3Lfm1dSor3nwrLLZwXK9nZ4TetxulDW9ENjucUqVbzJPNYArpKAVtAboSSWOvraqS/M41vfJgLHwh6iE4q4n2ypK5fCOoXjyYIlHmuhfApcDf139TBWhq1pkR5fg7KYU+viAwDJ0NT+b6x7OMx2bUsh8uewXLqqjjCAierKUZALTkEf6UC3cHT0pnAg7IuO7phi/FB/E5VOJ59U9iJ+maldL2DG3FZR6X/yDZAh5kScfk6C/JTmFUUEGT+WTb4NNZ1kib0ZwH5we04arGeB9YtawAF2ffecbLTW5mKt+liLph24UdW6cQS/MrYAxcmfTLV9EoD9JmDWQmSBiLr3tFKB8zFWBphXPGn9DoyVOQWcaawHaJmkfvp3zTWq3BqiY6689gqbxr+wokk7W2CHih98Tt2Q6AZRHMwgInWWj/yVMhp1Y="
+    Texture_picked: "ewogICJ0aW1lc3RhbXAiIDogMTY1MDIyNzQ5MzcyMiwKICAicHJvZmlsZUlkIiA6ICI2MzQxNmVlYWMyYWI0MzFlOWFlZWFjYzI0Zjg4ZGM3NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEYXJnZWJfWVQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzFmOWQ0NWJjNmQ2MmMxY2IyNzQxOTRkODY5NTAzNjE2YWNmOGEwMDhmOWU4ODFlMTI5YzZmZmJmMzcxNmU4MiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
     History: 
-      History1: 
-      History2: 
-      History3: 
-      History4: 
-      History5: 
-      History6: 
+      History1: "Hailing from Australia, Skye and her band of"
+      History2: "beasts trail-blaze the way through hostile"
+      History3: "territory. With her creations hampering the"
+      History4: "enemy, and her power to heal others, the team is"
+      History5: "strongest and safest by Skye's side."
+      History6: ""
     Ability: 
       C: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
+        Name: "REGROWTH"
+        Description1: "EQUIP a healing trinket. HOLD FIRE to channel, healing"
+        Description2: "allies in range and line of sight. Can be reused until her"
+        Description3: "healing pool is depleted. Skye cannot heal herself."
+        Description4: ""
+        Description5: ""
+        Description6: ""
       Q: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
+        Name: "TRAILBLAZER"
+        Description1: "EQUIP a Tasmanian tiger trinket. FIRE to send out and take"
+        Description2: "control of the predator. While in control, FIRE to leap"
+        Description3: "forward, exploding in a concussive blast and damaging"
+        Description4: "directly hit enemies."
+        Description5: ""
       E: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
+        Name: "GUIDING LIGHT"
+        Description1: "EQUIP a hawk trinket. FIRE to send it forward. HOLD FIRE"
+        Description2: "to guide the hawk in the direction of your crosshair. RE-USE"
+        Description3: "while the hawk is in flight to transform it into a flash."
+        Description4: ""
+        Description5: ""
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
       X: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
-        Description10: 
+        Name: "SEEKERS"
+        Description1: "EQUIP a Seeker trinket. FIRE to send out three Seekers to"
+        Description2: "track down the three closest enemies. If a Seeker reaches"
+        Description3: "its target, it nearsights them."
+        Description4: ""
+        Description5: ""
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
+        Description10: ""
   Yoru: 
-    Name: 
-    Type: 
-    Slot: 
-    Texture: 
-    Signature: 
-    Texture_picked: 
+    Name: "Yoru"
+    Type: "Duelist"
+    Slot: 13
+    Texture: "ewogICJ0aW1lc3RhbXAiIDogMTYxNzIwMTE3MDE1NywKICAicHJvZmlsZUlkIiA6ICI5MzZmMTA3MTEzOGM0YjMyYTg0OGY2NmE5Nzc2NDJhMiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwMDAwMDAwMDAwMDAwMDB4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzYyOWRlOTZmMTVmY2QxYmQwOTZmOWNiYTRlZGE3MjM3MTAyMDE2NzI0ZTJiMWI1ZDY1NGZhOGJkOWQzYjkzNWUiCiAgICB9CiAgfQp9"
+    Signature: "I60YmvG3h5AdOv/vNDtloktSRhW0vZUTihMoILT1kwW9HTioqVClcqrT7BcEMNT5Hif+otRDPhFSgkbofREJJEaNIsHJfI6/TYHkukpiNxVF9fG3LcxHur7DNf9wt1HJf5Wf3qSbwTfK58pcKiy5YI5mvvyfvi7BIGiuVmO2VoklqFBUmxFvESoMK1FJwmrapk3oiR3PClAXVPyE9HGFn0dhpM/hGcKmPu6xBpltwc0f27uKZFmNpJTPbskbJP6OGijgJIqEQV7GQ0o8bY97jyGNTOLP8dBwEFYEmEwO/JxTyT4z+qfwH4Fcfw3P/Ou9eg30zX830aw2neRwF/Ns9k/ImDDAyJDYxTFdBFBqKCQn61w6bSvLveVCqeNMTj22b19tpLPuC8v6iEY8SD2+SpiwP2JUqmdJbz2eecgg4K66oJFxMLjcO44K6U2yHUFUCpKgVZzmd8p/WxRMRcKwEaTE+QPFWjCQmQmfr0veuG+lai4GM+DVc62p9oi1APvtgFZCsr88JC7DpMhD8ovJ3jlsnKJE/TLU9mbYnfg+WffbpABomXhxv3miWoEJON3SjfzQplU4yYZjvN20bR9Mk84DUBYuvX2NUVAbGI7zPqKbnlArQ0qvc9+QkMU4WhO9sxcpHkhiU7eSWbVxGGJ2PeRL0MYzbHWPcaOvmL1K+Cc="
+    Texture_picked: "ewogICJ0aW1lc3RhbXAiIDogMTY1MDIyNzQ2ODI0NCwKICAicHJvZmlsZUlkIiA6ICJkZjY2OWIyOGFmNWE0MTNjODFhNjcwOGQ0ZDIyM2FlNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJsYW5nX3FpbmciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTk4MjBjYjhjOWNlYmU1NzAwMGQ4ZTczZjRjNGM3ZmNlYjU0ZTZhNzU0MmY5ZDBjMWMxNjA1ODRjNzZmYjgzNyIKICAgIH0KICB9Cn0="
     History: 
-      History1: 
-      History2: 
-      History3: 
-      History4: 
-      History5: 
-      History6: 
+      History1: "Japanese native, Yoru, rips holes straight through"
+      History2: "reality to infiltrate enemy lines unseen. Using"
+      History3: "deception and aggression in equal measure, he"
+      History4: "gets the drop on each target before they know"
+      History5: "where to look."
+      History6: ""
     Ability: 
       C: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
+        Name: "FAKEOUT"
+        Description1: "EQUIP an echo that transforms into a mirror image of Yoru"
+        Description2: "when activated FIRE to instantly activate the mirror image"
+        Description3: "and send it forward ALT FIRE to place an inactive echo USE"
+        Description4: "to transform an inactive echo into a mirror image and send"
+        Description5: "it forward. Mirror images explode in a blinding flash when"
+        Description6: "destroyed by enemies."
       Q: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
+        Name: "BLINDSIDE"
+        Description1: "EQUIP to rip an unstable dimensional fragment from reality."
+        Description2: "FIRE to throw the fragment, activating a flash that winds up"
+        Description3: "once it collides with a hard surface in world."
+        Description4: ""
+        Description5: ""
       E: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
+        Name: "GATECRASH"
+        Description1: "EQUIP a rift tether FIRE to send the tether forward ALT FIRE"
+        Description2: "to place a stationary tether ACTIVATE to teleport to the"
+        Description3: "tether's location USE to trigger a fake teleport"
+        Description4: ""
+        Description5: ""
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
       X: 
-        Name: 
-        Description1: 
-        Description2: 
-        Description3: 
-        Description4: 
-        Description5: 
-        Description6: 
-        Description7: 
-        Description8: 
-        Description9: 
-        Description10: 
+        Name: "DIMENSIONAL DRIFT"
+        Description1: "EQUIP a mask that can see between dimensions. FIRE to"
+        Description2: "drift into Yoru's dimension, unable to be affected or seen by"
+        Description3: "enemies from the outside"
+        Description4: ""
+        Description5: ""
+        Description6: ""
+        Description7: ""
+        Description8: ""
+        Description9: ""
+        Description10: ""
   Astra: 
     Name: 
     Type: 
