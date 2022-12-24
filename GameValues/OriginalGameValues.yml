@@ -1532,7 +1532,7 @@ Weapons:
 Shields: 
   Light: 
     Type: "LightShield"
-    Slot: 1
+    Slot: 16
     Price: 400
     Material: "LEGACY_IRON_CHESTPLATE"
     Name: "LightShield"
@@ -1542,7 +1542,7 @@ Shields:
     Description2: "absorbed 25 damage."
   Heavy: 
     Type: "HeavyShield"
-    Slot: 2
+    Slot: 17
     Price: 1000
     Material: "DIAMOND_CHESTPLATE"
     Name: "HeavyShield"
