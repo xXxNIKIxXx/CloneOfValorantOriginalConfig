@@ -993,7 +993,7 @@ Weapons:
       reloadAfterOneBullet: false
     Shorty: 
       displayName: "Shorty"
-      Slot: 19
+      Slot: 10
       Price: 150
       Magazine: 2
       reserveMagazine: 5
@@ -1026,7 +1026,7 @@ Weapons:
       reloadAfterOneBullet: false
     Frenzy: 
       displayName: "Frenzy"
-      Slot: 28
+      Slot: 19
       Price: 450
       Magazine: 13
       reserveMagazine: 3
@@ -1059,7 +1059,7 @@ Weapons:
       reloadAfterOneBullet: false
     Ghost: 
       displayName: "Ghost"
-      Slot: 37
+      Slot: 28
       Price: 500
       Magazine: 15
       reserveMagazine: 3
@@ -1092,7 +1092,7 @@ Weapons:
       reloadAfterOneBullet: false
     Sheriff: 
       displayName: "Sheriff"
-      Slot: 46
+      Slot: 37
       Price: 800
       Magazine: 6
       reserveMagazine: 4
