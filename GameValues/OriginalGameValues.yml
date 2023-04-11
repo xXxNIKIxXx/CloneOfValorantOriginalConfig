@@ -984,8 +984,25 @@ Weapons:
       walkSpeed: 5.73
       equipSpeed: 0.75
       reloadSpeed: 1.75
-      spreadPerShotNoZoom: 0.4
-      spreadPerShotZoom: 0.4
+      spreadPerShotNoZoom:
+         croutch:
+            - 0.3
+            - 0.55
+            - 0.8
+            - 1.26
+            - 1.32
+            - 1.35
+         normal:
+            - 0.4
+            - 0.77
+            - 1.16
+            - 1.7
+            - 1.73
+            - 1.76
+         walking_modifier: 0.84
+         sprinting_modifier: 2.1
+         jumping_modifier: 7
+      spreadPerShotZoom: 0
       wallPenetration: "Low"
       fireMode: "SemiAutomatic"
       handType: "Sidearms"
