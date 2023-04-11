@@ -984,7 +984,8 @@ Weapons:
       walkSpeed: 5.73
       equipSpeed: 0.75
       reloadSpeed: 1.75
-      spreadPerShotNoZoom:
+      spreadPerShotNoZoom: 0
+      sd:   
          croutch:
             - 0.3
             - 0.55
