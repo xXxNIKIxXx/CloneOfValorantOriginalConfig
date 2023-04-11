@@ -1,5 +1,6 @@
 #No changes in here. This will RESET after restart/reload
 #GitHub: https: //github.com/xXxNIKIxXx
+version: 1.0
 Agents: 
   Brimstone: 
     Name: "Brimstone"
