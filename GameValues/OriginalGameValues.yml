@@ -986,7 +986,7 @@ Weapons:
       equipSpeed: 0.75
       reloadSpeed: 1.75
       spreadPerShotNoZoom: 0
-      sd:   
+      spread_no_zoom:
          croutch:
             - 0.3
             - 0.55
@@ -1001,6 +1001,7 @@ Weapons:
             - 1.7
             - 1.73
             - 1.76
+         sneaking_modifier: 0.3
          walking_modifier: 0.84
          sprinting_modifier: 2.1
          jumping_modifier: 7
@@ -1037,7 +1038,26 @@ Weapons:
       equipSpeed: 0.75
       reloadSpeed: 1.75
       spreadPerShotNoZoom: 4.0
-      spreadPerShotZoom: 4.0
+      spread_no_zoom:
+         croutch:
+            - 0.3
+            - 0.55
+            - 0.8
+            - 1.26
+            - 1.32
+            - 1.35
+         normal:
+            - 0.4
+            - 0.77
+            - 1.16
+            - 1.7
+            - 1.73
+            - 1.76
+         sneaking_modifier: 0.3
+         walking_modifier: 0.84
+         sprinting_modifier: 2.1
+         jumping_modifier: 7
+         spreadPerShotZoom: 4.0
       wallPenetration: "Low"
       fireMode: "Semi"
       handType: "Sidearms"
@@ -1070,6 +1090,25 @@ Weapons:
       equipSpeed: 1.0
       reloadSpeed: 1.5
       spreadPerShotNoZoom: 0.45
+      spread_no_zoom:
+         croutch:
+            - 0.3
+            - 0.55
+            - 0.8
+            - 1.26
+            - 1.32
+            - 1.35
+         normal:
+            - 0.4
+            - 0.77
+            - 1.16
+            - 1.7
+            - 1.73
+            - 1.76
+         sneaking_modifier: 0.3
+         walking_modifier: 0.84
+         sprinting_modifier: 2.1
+         jumping_modifier: 7
       spreadPerShotZoom: 0.45
       wallPenetration: "Low"
       fireMode: "Auto"
@@ -1103,6 +1142,25 @@ Weapons:
       equipSpeed: 0.75
       reloadSpeed: 1.5
       spreadPerShotNoZoom: 0.3
+      spread_no_zoom:
+         croutch:
+            - 0.3
+            - 0.55
+            - 0.8
+            - 1.26
+            - 1.32
+            - 1.35
+         normal:
+            - 0.4
+            - 0.77
+            - 1.16
+            - 1.7
+            - 1.73
+            - 1.76
+         sneaking_modifier: 0.3
+         walking_modifier: 0.84
+         sprinting_modifier: 2.1
+         jumping_modifier: 7
       spreadPerShotZoom: 0.3
       wallPenetration: "Medium"
       fireMode: "Semi"
@@ -1136,6 +1194,25 @@ Weapons:
       equipSpeed: 1.0
       reloadSpeed: 2.25
       spreadPerShotNoZoom: 0.25
+      spread_no_zoom:
+         croutch:
+            - 0.3
+            - 0.55
+            - 0.8
+            - 1.26
+            - 1.32
+            - 1.35
+         normal:
+            - 0.4
+            - 0.77
+            - 1.16
+            - 1.7
+            - 1.73
+            - 1.76
+         sneaking_modifier: 0.3
+         walking_modifier: 0.84
+         sprinting_modifier: 2.1
+         jumping_modifier: 7
       spreadPerShotZoom: 0.25
       wallPenetration: "High"
       fireMode: "Semi"
@@ -1169,6 +1246,25 @@ Weapons:
       equipSpeed: 0.75
       reloadSpeed: 2.25
       spreadPerShotNoZoom: 0.65
+      spread_no_zoom:
+         croutch:
+            - 0.3
+            - 0.55
+            - 0.8
+            - 1.26
+            - 1.32
+            - 1.35
+         normal:
+            - 0.4
+            - 0.77
+            - 1.16
+            - 1.7
+            - 1.73
+            - 1.76
+         sneaking_modifier: 0.3
+         walking_modifier: 0.84
+         sprinting_modifier: 2.1
+         jumping_modifier: 7
       spreadPerShotZoom: 0.5
       wallPenetration: "Low"
       fireMode: "Auto"
@@ -1202,6 +1298,25 @@ Weapons:
       equipSpeed: 0.75
       reloadSpeed: 2.25
       spreadPerShotNoZoom: 0.4
+      spread_no_zoom:
+         croutch:
+            - 0.3
+            - 0.55
+            - 0.8
+            - 1.26
+            - 1.32
+            - 1.35
+         normal:
+            - 0.4
+            - 0.77
+            - 1.16
+            - 1.7
+            - 1.73
+            - 1.76
+         sneaking_modifier: 0.3
+         walking_modifier: 0.84
+         sprinting_modifier: 2.1
+         jumping_modifier: 7
       spreadPerShotZoom: 0.25
       wallPenetration: "Medium"
       fireMode: "FullAutomatic"
@@ -1235,6 +1350,25 @@ Weapons:
       equipSpeed: 1.0
       reloadSpeed: 0.5
       spreadPerShotNoZoom: 2.6
+      spread_no_zoom:
+         croutch:
+            - 0.3
+            - 0.55
+            - 0.8
+            - 1.26
+            - 1.32
+            - 1.35
+         normal:
+            - 0.4
+            - 0.77
+            - 1.16
+            - 1.7
+            - 1.73
+            - 1.76
+         sneaking_modifier: 0.3
+         walking_modifier: 0.84
+         sprinting_modifier: 2.1
+         jumping_modifier: 7
       spreadPerShotZoom: 2.6
       wallPenetration: "Low"
       fireMode: "Semi"
@@ -1268,6 +1402,25 @@ Weapons:
       equipSpeed: 1.0
       reloadSpeed: 2.2
       spreadPerShotNoZoom: 2.25
+      spread_no_zoom:
+         croutch:
+            - 0.3
+            - 0.55
+            - 0.8
+            - 1.26
+            - 1.32
+            - 1.35
+         normal:
+            - 0.4
+            - 0.77
+            - 1.16
+            - 1.7
+            - 1.73
+            - 1.76
+         sneaking_modifier: 0.3
+         walking_modifier: 0.84
+         sprinting_modifier: 2.1
+         jumping_modifier: 7
       spreadPerShotZoom: 2.25
       wallPenetration: "Low"
       fireMode: "Auto"
@@ -1301,6 +1454,25 @@ Weapons:
       equipSpeed: 1.0
       reloadSpeed: 2.5
       spreadPerShotNoZoom: 0.3
+      spread_no_zoom:
+         croutch:
+            - 0.3
+            - 0.55
+            - 0.8
+            - 1.26
+            - 1.32
+            - 1.35
+         normal:
+            - 0.4
+            - 0.77
+            - 1.16
+            - 1.7
+            - 1.73
+            - 1.76
+         sneaking_modifier: 0.3
+         walking_modifier: 0.84
+         sprinting_modifier: 2.1
+         jumping_modifier: 7
       spreadPerShotZoom: 0.3
       wallPenetration: "Medium"
       fireMode: "Auto"
@@ -1335,6 +1507,25 @@ Weapons:
       reloadSpeed: 2.5
       spreadPerShotNoZoom: 0.1
       spreadPerShotZoom: 0.0
+      spread_no_zoom:
+         croutch:
+            - 0.3
+            - 0.55
+            - 0.8
+            - 1.26
+            - 1.32
+            - 1.35
+         normal:
+            - 0.4
+            - 0.77
+            - 1.16
+            - 1.7
+            - 1.73
+            - 1.76
+         sneaking_modifier: 0.3
+         walking_modifier: 0.84
+         sprinting_modifier: 2.1
+         jumping_modifier: 7
       wallPenetration: "High"
       fireMode: "SemiAutomatic"
       handType: "Primary"
@@ -1367,6 +1558,25 @@ Weapons:
       equipSpeed: 1.0
       reloadSpeed: 2.5
       spreadPerShotNoZoom: 0.2
+      spread_no_zoom:
+         croutch:
+            - 0.3
+            - 0.55
+            - 0.8
+            - 1.26
+            - 1.32
+            - 1.35
+         normal:
+            - 0.4
+            - 0.77
+            - 1.16
+            - 1.7
+            - 1.73
+            - 1.76
+         sneaking_modifier: 0.3
+         walking_modifier: 0.84
+         sprinting_modifier: 2.1
+         jumping_modifier: 7
       spreadPerShotZoom: 0.11
       wallPenetration: "Medium"
       fireMode: "Auto"
@@ -1400,6 +1610,25 @@ Weapons:
       equipSpeed: 1.0
       reloadSpeed: 2.5
       spreadPerShotNoZoom: 0.25
+      spread_no_zoom:
+         croutch:
+            - 0.3
+            - 0.55
+            - 0.8
+            - 1.26
+            - 1.32
+            - 1.35
+         normal:
+            - 0.4
+            - 0.77
+            - 1.16
+            - 1.7
+            - 1.73
+            - 1.76
+         sneaking_modifier: 0.3
+         walking_modifier: 0.84
+         sprinting_modifier: 2.1
+         jumping_modifier: 7
       spreadPerShotZoom: 0.157
       wallPenetration: "Medium"
       fireMode: "Auto"
@@ -1433,6 +1662,25 @@ Weapons:
       equipSpeed: 1.25
       reloadSpeed: 0.5
       spreadPerShotNoZoom: 1.0
+      spread_no_zoom:
+         croutch:
+            - 0.3
+            - 0.55
+            - 0.8
+            - 1.26
+            - 1.32
+            - 1.35
+         normal:
+            - 0.4
+            - 0.77
+            - 1.16
+            - 1.7
+            - 1.73
+            - 1.76
+         sneaking_modifier: 0.3
+         walking_modifier: 0.84
+         sprinting_modifier: 2.1
+         jumping_modifier: 7
       spreadPerShotZoom: 0
       wallPenetration: "Medium"
       fireMode: "Semi"
@@ -1466,6 +1714,25 @@ Weapons:
       equipSpeed: 1.5
       reloadSpeed: 0.74
       spreadPerShotNoZoom: 1.0
+      spread_no_zoom:
+         croutch:
+            - 0.3
+            - 0.55
+            - 0.8
+            - 1.26
+            - 1.32
+            - 1.35
+         normal:
+            - 0.4
+            - 0.77
+            - 1.16
+            - 1.7
+            - 1.73
+            - 1.76
+         sneaking_modifier: 0.3
+         walking_modifier: 0.84
+         sprinting_modifier: 2.1
+         jumping_modifier: 7
       spreadPerShotZoom: 0
       wallPenetration: "Medium"
       fireMode: "Semi"
@@ -1499,6 +1766,25 @@ Weapons:
       equipSpeed: 1.25
       reloadSpeed: 3.25
       spreadPerShotNoZoom: 1.0
+      spread_no_zoom:
+         croutch:
+            - 0.3
+            - 0.55
+            - 0.8
+            - 1.26
+            - 1.32
+            - 1.35
+         normal:
+            - 0.4
+            - 0.77
+            - 1.16
+            - 1.7
+            - 1.73
+            - 1.76
+         sneaking_modifier: 0.3
+         walking_modifier: 0.84
+         sprinting_modifier: 2.1
+         jumping_modifier: 7
       spreadPerShotZoom: 0.9
       wallPenetration: "High"
       fireMode: "Auto"
@@ -1532,6 +1818,25 @@ Weapons:
       equipSpeed: 1.25
       reloadSpeed: 5.0
       spreadPerShotNoZoom: 0.8
+      spread_no_zoom:
+         croutch:
+            - 0.3
+            - 0.55
+            - 0.8
+            - 1.26
+            - 1.32
+            - 1.35
+         normal:
+            - 0.4
+            - 0.77
+            - 1.16
+            - 1.7
+            - 1.73
+            - 1.76
+         sneaking_modifier: 0.3
+         walking_modifier: 0.84
+         sprinting_modifier: 2.1
+         jumping_modifier: 7
       spreadPerShotZoom: 0.79
       wallPenetration: "High"
       fireMode: "Auto"
